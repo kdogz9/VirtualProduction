@@ -2053,3 +2053,210 @@ FPackageName: Skipped package /Game/Downtown_West/Textures/Sky/T_Water_01_N has 
 [2026.05.13-06.14.05:846][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.13-06.14.05:846][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.13-06.14.05:846][ 68]AssetCheck: /Game/LV_Environment Validating asset
+[2026.05.13-06.16.45:137][ 24]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.16.45:143][ 25]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.17.04:625][338]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-06.17.04:795][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fountain/SM_prop_fountain_full.SM_prop_fountain_full
+[2026.05.13-06.17.04:795][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fountain/SM_prop_fountain_full.SM_prop_fountain_full
+[2026.05.13-06.17.04:797][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_fountain/SM_prop_fountain_full.SM_prop_fountain_full as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_0
+[2026.05.13-06.17.05:538][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.13-06.17.05:542][419]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-06.17.05:547][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fountain/SM_prop_fountain_full.SM_prop_fountain_full
+[2026.05.13-06.17.05:547][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fountain/SM_prop_fountain_full.SM_prop_fountain_full
+[2026.05.13-06.17.05:549][419]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_fountain/SM_prop_fountain_full.SM_prop_fountain_full as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_1
+[2026.05.13-06.17.15:807][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_eagle/SM_prop_statue_eagle.SM_prop_statue_eagle
+[2026.05.13-06.17.15:807][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_eagle/SM_prop_statue_eagle.SM_prop_statue_eagle
+[2026.05.13-06.17.15:807][618]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statue_eagle/SM_prop_statue_eagle.SM_prop_statue_eagle as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_2
+[2026.05.13-06.17.16:942][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.17.16:945][752]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2026.05.13-06.17.16:949][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_eagle/SM_prop_statue_eagle.SM_prop_statue_eagle
+[2026.05.13-06.17.16:949][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_eagle/SM_prop_statue_eagle.SM_prop_statue_eagle
+[2026.05.13-06.17.16:951][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statue_eagle/SM_prop_statue_eagle.SM_prop_statue_eagle as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_3
+[2026.05.13-06.17.29:059][168]Cmd: DELETE
+[2026.05.13-06.17.29:059][168]Cmd: ACTOR DELETE
+[2026.05.13-06.17.29:066][168]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2026.05.13-06.17.29:081][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.17.29:086][168]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.05.13-06.17.37:814][197]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_3.StaticMeshComponent0.
+[2026.05.13-06.17.38:023][222]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_3.StaticMeshComponent0.
+[2026.05.13-06.19.15:280][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_deer/SM_prop_statue_deer.SM_prop_statue_deer
+[2026.05.13-06.19.15:280][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_deer/SM_prop_statue_deer.SM_prop_statue_deer
+[2026.05.13-06.19.15:280][796]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statue_deer/SM_prop_statue_deer.SM_prop_statue_deer as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_4
+[2026.05.13-06.19.16:006][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-06.19.16:010][880]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-06.19.16:013][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_deer/SM_prop_statue_deer.SM_prop_statue_deer
+[2026.05.13-06.19.16:013][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statue_deer/SM_prop_statue_deer.SM_prop_statue_deer
+[2026.05.13-06.19.16:015][880]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statue_deer/SM_prop_statue_deer.SM_prop_statue_deer as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_5
+[2026.05.13-06.20.01:735][231]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4274.915527
+[2026.05.13-06.20.01:859][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.20.01:859][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4275.032227, Update Interval: 307.778564
+[2026.05.13-06.20.03:101][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_a.SM_building_awning_a
+[2026.05.13-06.20.03:101][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_a.SM_building_awning_a
+[2026.05.13-06.20.03:101][366]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_a.SM_building_awning_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_6
+[2026.05.13-06.20.04:287][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.20.04:294][506]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-06.20.04:297][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_a.SM_building_awning_a
+[2026.05.13-06.20.04:297][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_a.SM_building_awning_a
+[2026.05.13-06.20.04:299][506]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_a.SM_building_awning_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_7
+[2026.05.13-06.20.05:020][582]Cmd: DELETE
+[2026.05.13-06.20.05:020][582]Cmd: ACTOR DELETE
+[2026.05.13-06.20.05:027][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-06.20.05:036][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.20.05:039][582]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.05.13-06.20.05:948][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_b.SM_building_awning_b
+[2026.05.13-06.20.05:948][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_b.SM_building_awning_b
+[2026.05.13-06.20.05:948][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_b.SM_building_awning_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_8
+[2026.05.13-06.20.06:478][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.20.06:481][740]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2026.05.13-06.20.06:484][740]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_b.SM_building_awning_b
+[2026.05.13-06.20.06:484][740]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_b.SM_building_awning_b
+[2026.05.13-06.20.06:485][740]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/awnings/SM_building_awning_b.SM_building_awning_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_9
+[2026.05.13-06.22.45:771][469]Cmd: TRANSACTION UNDO
+[2026.05.13-06.22.45:771][469]LogEditorTransaction: Undo Move Elements
+[2026.05.13-06.22.56:848][739]Cmd: TRANSACTION UNDO
+[2026.05.13-06.22.56:848][739]LogEditorTransaction: Undo Set Scale
+[2026.05.13-06.23.01:656][289]Cmd: TRANSACTION UNDO
+[2026.05.13-06.23.01:656][289]LogEditorTransaction: Undo Set Scale
+[2026.05.13-06.23.53:895][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.13-06.23.55:746][397]LogSlate: Window 'Save Content' being destroyed
+[2026.05.13-06.23.55:763][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-06.23.55:808][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.23.55:940][397]LogSavePackage: Moving output files for package: /Game/LV_Environment
+[2026.05.13-06.23.55:940][397]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_Environment53B8482C46AFE648530397A92CBC26AA.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap'
+[2026.05.13-06.23.55:947][397]LogFileHelpers: Saving map 'LV_Environment' took 0.157
+[2026.05.13-06.23.55:980][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.327 ms (total: 5.02 sec)
+[2026.05.13-06.23.55:980][397]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-06.23.56:272][397]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Environment
+[2026.05.13-06.23.56:365][397]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2026.05.13-06.23.56:367][397]Cmd: MAP LOAD FILE="../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.13-06.23.56:414][397]LogWorld: UWorld::CleanupWorld for LV_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.23.56:414][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.23.56:462][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.13-06.23.56:470][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.13-06.23.56:478][397]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.23.56:489][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.23.56:538][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.13-06.23.56:549][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.05.13-06.23.56:857][397]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Environment'.
+[2026.05.13-06.23.56:857][397]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Environment
+[2026.05.13-06.23.57:010][397]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Nightime_Lighting) is flushing async loading
+[2026.05.13-06.23.57:054][397]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Daytime_Lighting) is flushing async loading
+[2026.05.13-06.23.57:545][397]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.13-06.23.57:599][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.13-06.23.57:603][397]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.13-06.23.57:603][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2026.05.13-06.23.57:705][397]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-06.23.57:705][397]LogContentValidation: Enabled validators:
+[2026.05.13-06.23.57:705][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-06.23.57:705][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-06.23.57:705][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-06.23.57:705][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-06.23.57:705][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-06.23.57:705][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-06.23.57:824][397]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 2304
+[2026.05.13-06.23.58:604][400]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.24.03:424][909]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.24.03:432][910]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.24.23:997][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-06.24.24:048][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-06.24.25:101][107]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2026.05.13-06.24.25:101][107]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/Demo_Environment0ED1E63E44E8B79023067E936C41AE19.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2026.05.13-06.24.25:128][107]LogFileHelpers: All files are already saved.
+[2026.05.13-06.24.25:128][107]LogFileHelpers: Saving map 'Demo_Environment' took 1.103
+[2026.05.13-06.24.25:143][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.14 sec (total: 6.17 sec)
+[2026.05.13-06.24.25:187][107]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-06.24.25:187][107]LogContentValidation: Enabled validators:
+[2026.05.13-06.24.25:187][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-06.24.25:187][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-06.24.25:187][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-06.24.25:187][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-06.24.25:187][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-06.24.25:187][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-06.24.25:187][107]AssetCheck: /Game/Downtown_West/Maps/Demo_Environment Validating asset
+[2026.05.13-06.24.26:256][232]Cmd: TRANSACTION UNDO
+[2026.05.13-06.24.26:256][232]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-06.24.28:516][462]Cmd: TRANSACTION UNDO
+[2026.05.13-06.24.28:516][462]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-06.24.28:873][498]Cmd: TRANSACTION UNDO
+[2026.05.13-06.24.28:873][498]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-06.25.16:426][945]Cmd: EDIT COPY
+[2026.05.13-06.25.16:741][945]Cmd: EDIT COPY
+[2026.05.13-06.25.17:086][945]Cmd: EDIT COPY
+[2026.05.13-06.25.17:086][945]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.05.13-06.25.32:581][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.13-06.25.32:585][753]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2026.05.13-06.25.32:586][753]Cmd: MAP LOAD FILE="../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.13-06.25.32:695][753]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.32:696][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.32:696][753]LogWorld: UWorld::CleanupWorld for Nightime_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.32:696][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.32:696][753]LogWorld: UWorld::CleanupWorld for Daytime_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.32:696][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.32:733][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.13-06.25.32:761][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.13-06.25.32:806][753]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-06.25.33:102][753]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Environment'.
+[2026.05.13-06.25.33:102][753]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Environment
+[2026.05.13-06.25.33:250][753]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Nightime_Lighting) is flushing async loading
+[2026.05.13-06.25.33:292][753]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Daytime_Lighting) is flushing async loading
+[2026.05.13-06.25.33:771][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.13-06.25.33:823][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.13-06.25.33:827][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.13-06.25.33:827][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2026.05.13-06.25.33:971][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-06.25.34:019][753]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 2304
+[2026.05.13-06.25.45:105][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-06.25.45:108][  6]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-06.25.45:137][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Environment
+[2026.05.13-06.25.45:148][  6]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LV_Environment.LV_Environment
+[2026.05.13-06.25.45:148][  6]Cmd: MAP LOAD FILE="../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.13-06.25.45:221][  6]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.45:222][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.45:224][  6]LogWorld: UWorld::CleanupWorld for Nightime_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.45:224][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.45:224][  6]LogWorld: UWorld::CleanupWorld for Daytime_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.45:224][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.45:270][  6]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.13-06.25.45:301][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.13-06.25.45:317][  6]LogWorld: UWorld::CleanupWorld for LV_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-06.25.45:319][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-06.25.45:331][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.13-06.25.45:367][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.13-06.25.45:395][  6]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Environment'.
+[2026.05.13-06.25.45:395][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Environment
+[2026.05.13-06.25.45:429][  6]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.13-06.25.45:442][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.13-06.25.45:446][  6]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.13-06.25.45:446][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2026.05.13-06.25.45:516][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.25.45:577][  7]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.05.13-06.25.48:837][385]Cmd: EDIT PASTE
+[2026.05.13-06.25.50:181][392]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.25.50:217][392]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.25.50:254][392]LogRenderer: Using fallback RTPSO
+[2026.05.13-06.25.56:289][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4629.413086
+[2026.05.13-06.25.56:431][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.25.56:431][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4629.547852, Update Interval: 321.319611
+[2026.05.13-06.26.42:518][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.13-06.26.43:522][646]LogSlate: Window 'Save Content' being destroyed
+[2026.05.13-06.26.43:528][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-06.26.43:572][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-06.26.43:828][646]LogSavePackage: Moving output files for package: /Game/LV_Environment
+[2026.05.13-06.26.43:830][646]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_Environment6E42B55541855575DF6EAF8187D26D51.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap'
+[2026.05.13-06.26.43:836][646]LogFileHelpers: Saving map 'LV_Environment' took 0.284
+[2026.05.13-06.26.43:851][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.326 ms (total: 6.49 sec)
+[2026.05.13-06.26.43:877][646]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-06.26.43:877][646]LogContentValidation: Enabled validators:
+[2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-06.26.43:878][646]AssetCheck: /Game/LV_Environment Validating asset
