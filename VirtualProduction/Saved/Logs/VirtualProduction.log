@@ -2318,3 +2318,878 @@ FPackageName: Skipped package /Game/Downtown_West/Textures/Sky/T_Water_01_N has 
 [2026.05.13-07.45.06:324][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9379.780273
 [2026.05.13-07.45.06:474][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.13-07.45.06:474][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9379.923828, Update Interval: 339.914551
+[2026.05.13-07.51.44:592][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9778.096680
+[2026.05.13-07.51.45:593][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.51.45:593][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9778.763672, Update Interval: 314.454773
+[2026.05.13-07.56.37:857][ 82]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-07.56.37:971][ 86]LogRenderer: Using fallback RTPSO
+[2026.05.13-07.56.37:989][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-07.56.37:989][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-07.56.37:990][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_0
+[2026.05.13-07.56.38:571][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.13-07.56.38:573][144]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-07.56.38:577][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-07.56.38:577][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-07.56.38:579][144]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_2
+[2026.05.13-07.56.46:020][993]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-07.56.46:090][995]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardSmall.BoardSmall
+[2026.05.13-07.56.46:090][995]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardSmall.BoardSmall
+[2026.05.13-07.56.46:090][995]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardSmall.BoardSmall as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_4
+[2026.05.13-07.56.46:095][995]LogRenderer: Using fallback RTPSO
+[2026.05.13-07.56.46:903][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-07.56.46:906][ 90]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-07.56.46:910][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardSmall.BoardSmall
+[2026.05.13-07.56.46:910][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardSmall.BoardSmall
+[2026.05.13-07.56.46:911][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardSmall.BoardSmall as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_6
+[2026.05.13-07.56.47:820][190]Cmd: DELETE
+[2026.05.13-07.56.47:820][190]Cmd: ACTOR DELETE
+[2026.05.13-07.56.47:842][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-07.56.47:850][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-07.56.47:853][190]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.05.13-07.56.51:027][543]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-07.56.51:104][545]LogRenderer: Using fallback RTPSO
+[2026.05.13-07.56.51:135][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam5Boards.Beam5Boards
+[2026.05.13-07.56.51:135][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam5Boards.Beam5Boards
+[2026.05.13-07.56.51:137][548]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam5Boards.Beam5Boards as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_7
+[2026.05.13-07.56.51:769][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-07.56.51:772][621]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2026.05.13-07.56.51:775][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam5Boards.Beam5Boards
+[2026.05.13-07.56.51:775][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam5Boards.Beam5Boards
+[2026.05.13-07.56.51:777][621]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam5Boards.Beam5Boards as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_8
+[2026.05.13-07.56.53:357][796]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-07.56.53:449][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam3Boards.Beam3Boards
+[2026.05.13-07.56.53:449][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam3Boards.Beam3Boards
+[2026.05.13-07.56.53:449][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam3Boards.Beam3Boards as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_18
+[2026.05.13-07.56.54:161][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-07.56.54:163][881]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2026.05.13-07.56.54:166][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam3Boards.Beam3Boards
+[2026.05.13-07.56.54:166][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam3Boards.Beam3Boards
+[2026.05.13-07.56.54:167][881]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Beam3Boards.Beam3Boards as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_19
+[2026.05.13-07.57.48:706][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10142.278320
+[2026.05.13-07.57.48:830][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.57.48:830][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10142.395508, Update Interval: 325.741760
+[2026.05.13-07.58.14:533][195]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-07.58.14:638][200]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-07.58.14:638][200]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-07.58.14:638][200]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_21
+[2026.05.13-07.58.14:642][200]LogRenderer: Using fallback RTPSO
+[2026.05.13-07.58.15:305][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-07.58.15:311][276]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-07.58.15:315][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-07.58.15:315][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-07.58.15:317][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_22
+[2026.05.13-07.58.54:208][808]Cmd: TRANSACTION UNDO
+[2026.05.13-07.58.54:208][808]LogEditorTransaction: Undo Set Scale
+[2026.05.13-08.00.19:058][677]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.00.19:147][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.00.19:147][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.00.19:149][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_28
+[2026.05.13-08.00.19:153][679]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.00.19:801][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.13-08.00.19:807][754]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.00.19:810][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.00.19:810][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.00.19:812][754]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_29
+[2026.05.13-08.00.51:875][537]Cmd: DELETE
+[2026.05.13-08.00.51:875][537]Cmd: ACTOR DELETE
+[2026.05.13-08.00.51:893][537]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.00.51:901][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.00.51:905][537]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.00.52:816][632]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.00.52:885][634]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.00.52:980][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.00.52:980][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.00.52:980][644]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_31
+[2026.05.13-08.00.52:984][644]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumGeometrySegments changed: current: 768 - new: 1280
+[2026.05.13-08.00.54:281][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.00.54:285][798]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.00.54:288][798]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.00.54:288][798]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.00.54:289][798]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_32
+[2026.05.13-08.01.03:538][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-08.01.03:538][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-08.01.03:538][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_33
+[2026.05.13-08.01.04:045][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.01.04:048][908]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.01.04:051][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-08.01.04:051][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw
+[2026.05.13-08.01.04:053][908]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Screw.Screw as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_34
+[2026.05.13-08.01.29:020][786]Cmd: TRANSACTION UNDO
+[2026.05.13-08.01.29:022][786]LogEditorTransaction: Undo Set Location
+[2026.05.13-08.01.35:340][514]Cmd: TRANSACTION UNDO
+[2026.05.13-08.01.35:340][514]LogEditorTransaction: Undo Set Location
+[2026.05.13-08.02.41:742][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.02.42:009][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LV_Environment_Auto2
+[2026.05.13-08.02.42:009][236]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_Environment_Auto2270AB39249F57C22C375F69B07841E26.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/Autosaves/Game/LV_Environment_Auto2.umap'
+[2026.05.13-08.02.42:011][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LV_Environment' took 0.277
+[2026.05.13-08.02.42:011][236]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.277
+[2026.05.13-08.02.52:543][478]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.02.52:638][481]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.02.52:638][481]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.02.52:638][481]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_39
+[2026.05.13-08.02.52:644][481]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.02.53:364][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.02.53:366][564]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2026.05.13-08.02.53:369][564]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.02.53:369][564]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.02.53:369][564]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_40
+[2026.05.13-08.03.47:184][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10501.018555
+[2026.05.13-08.03.47:350][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.03.47:350][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10501.166992, Update Interval: 335.708496
+[2026.05.13-08.04.38:009][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.04.38:009][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.04.38:009][718]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_45
+[2026.05.13-08.04.38:765][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.04.38:773][804]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.05.13-08.04.38:774][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.04.38:776][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1
+[2026.05.13-08.04.38:776][804]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlate2x1.MetalPlate2x1 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_46
+[2026.05.13-08.04.42:551][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.04.42:551][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.04.42:551][221]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_47
+[2026.05.13-08.04.43:801][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.04.43:804][368]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.04.43:806][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.04.43:806][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.04.43:808][368]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_48
+[2026.05.13-08.06.23:496][418]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.06.23:576][420]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Brick.Brick
+[2026.05.13-08.06.23:576][420]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Brick.Brick
+[2026.05.13-08.06.23:576][420]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Brick.Brick as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_49
+[2026.05.13-08.06.23:581][420]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.06.24:274][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.13-08.06.24:279][501]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.06.24:282][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Brick.Brick
+[2026.05.13-08.06.24:282][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Brick.Brick
+[2026.05.13-08.06.24:283][501]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Brick.Brick as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_50
+[2026.05.13-08.07.02:981][957]Cmd: DELETE
+[2026.05.13-08.07.02:981][957]Cmd: ACTOR DELETE
+[2026.05.13-08.07.02:998][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.07.03:008][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.07.03:013][957]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.05.13-08.07.06:533][369]Cmd: DELETE
+[2026.05.13-08.07.06:533][369]Cmd: ACTOR DELETE
+[2026.05.13-08.07.06:550][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.07.06:559][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.07.06:562][369]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.05.13-08.07.07:864][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.07.07:864][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.07.07:864][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_62
+[2026.05.13-08.07.08:481][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.07.08:484][586]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.07.08:487][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.07.08:487][586]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence
+[2026.05.13-08.07.08:489][586]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/BoardsFence.BoardsFence as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_63
+[2026.05.13-08.07.50:025][ 68]LogSlate: Window 'Fab' being destroyed
+[2026.05.13-08.07.50:031][ 68]LogSlate: Window 'Fab' being destroyed
+[2026.05.13-08.07.51:528][242]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.05.13-08.07.51:528][242]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/6818b919-b48b-46e6-a9fa-3f7efbef680c.
+[2026.05.13-08.08.02:192][473]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.08.02:313][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.02:313][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.02:314][479]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_64
+[2026.05.13-08.08.02:318][479]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:330][480]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:338][481]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:345][482]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:354][484]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:361][484]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:371][485]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.02:378][486]LogD3D12RHI: Creating RTPSO with 55 shaders (0 cached, 1 new) took 59.85 ms. Compile time 57.87 ms, link time 1.96 ms.
+[2026.05.13-08.08.03:333][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.08.03:339][599]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-08.08.03:342][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.03:342][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.03:343][599]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_65
+[2026.05.13-08.08.05:721][869]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.08.05:854][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.05:854][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.05:854][874]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_66
+[2026.05.13-08.08.05:860][874]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.08.07:324][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.08.07:328][ 48]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.08.07:334][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.07:334][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.07:334][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_67
+[2026.05.13-08.08.12:521][646]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.08.12:651][654]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.12:651][654]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.12:651][654]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_68
+[2026.05.13-08.08.13:429][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.08.13:433][745]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.08.13:437][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.13:437][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.13:439][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_69
+[2026.05.13-08.08.19:894][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.19:894][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.19:894][470]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_70
+[2026.05.13-08.08.20:814][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.08.20:816][578]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2026.05.13-08.08.20:821][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.20:821][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.20:822][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_71
+[2026.05.13-08.08.21:561][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.21:561][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.21:561][646]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_72
+[2026.05.13-08.08.22:711][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.08.22:714][782]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2026.05.13-08.08.22:718][782]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.22:718][782]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01
+[2026.05.13-08.08.22:720][782]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree01.BackgroundTree01 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_73
+[2026.05.13-08.08.23:904][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.23:904][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.23:904][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_74
+[2026.05.13-08.08.28:346][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.08.28:350][426]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.08.28:354][426]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.28:354][426]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02
+[2026.05.13-08.08.28:356][426]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree02.BackgroundTree02 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_75
+[2026.05.13-08.08.33:707][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.33:707][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.33:708][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_76
+[2026.05.13-08.08.34:761][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-08.08.34:763][164]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.08.34:768][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.34:768][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03
+[2026.05.13-08.08.34:770][164]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Foliage/Trees/BackgroundTree03.BackgroundTree03 as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_77
+[2026.05.13-08.09.31:264][110]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.09.31:415][121]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/LampPostNeckBent.LampPostNeckBent
+[2026.05.13-08.09.31:415][121]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/LampPostNeckBent.LampPostNeckBent
+[2026.05.13-08.09.31:416][121]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/LampPostNeckBent.LampPostNeckBent as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_78
+[2026.05.13-08.09.31:420][121]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.09.32:335][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.09.32:341][229]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.09.32:346][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/LampPostNeckBent.LampPostNeckBent
+[2026.05.13-08.09.32:346][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/LampPostNeckBent.LampPostNeckBent
+[2026.05.13-08.09.32:347][229]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/LampPostNeckBent.LampPostNeckBent as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_79
+[2026.05.13-08.09.33:401][345]Cmd: DELETE
+[2026.05.13-08.09.33:401][345]Cmd: ACTOR DELETE
+[2026.05.13-08.09.33:418][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.09.33:427][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.09.33:430][345]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.05.13-08.09.39:025][996]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.09.39:110][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/RoofPiece.RoofPiece
+[2026.05.13-08.09.39:110][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/RoofPiece.RoofPiece
+[2026.05.13-08.09.39:110][998]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/RoofPiece.RoofPiece as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_80
+[2026.05.13-08.09.39:116][998]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.09.39:823][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.09.39:825][ 81]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.09.39:828][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/RoofPiece.RoofPiece
+[2026.05.13-08.09.39:828][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/RoofPiece.RoofPiece
+[2026.05.13-08.09.39:831][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/RoofPiece.RoofPiece as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_81
+[2026.05.13-08.10.10:630][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10884.526367
+[2026.05.13-08.10.10:783][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.10.10:783][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10884.667969, Update Interval: 302.305359
+[2026.05.13-08.10.43:660][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.05.13-08.10.44:418][526]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-08.10.44:947][526]LogSlate: Window 'Save Content' being destroyed
+[2026.05.13-08.10.44:962][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-08.10.45:006][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.10.45:272][526]LogSavePackage: Moving output files for package: /Game/LV_Environment
+[2026.05.13-08.10.45:272][526]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_Environment75A0017F42DB1CA3D007D28220DB63B1.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap'
+[2026.05.13-08.10.45:281][526]LogFileHelpers: Saving map 'LV_Environment' took 0.293
+[2026.05.13-08.10.45:292][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 330.270 ms (total: 6.82 sec)
+[2026.05.13-08.10.45:316][526]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-08.10.45:316][526]LogContentValidation: Enabled validators:
+[2026.05.13-08.10.45:316][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-08.10.45:316][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-08.10.45:316][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-08.10.45:316][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-08.10.45:316][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-08.10.45:316][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-08.10.45:316][526]AssetCheck: /Game/LV_Environment Validating asset
+[2026.05.13-08.11.26:385][247]Cmd: DELETE
+[2026.05.13-08.11.26:385][247]Cmd: ACTOR DELETE
+[2026.05.13-08.11.26:403][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.11.26:404][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.11.26:413][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.13-08.11.26:418][247]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2026.05.13-08.11.27:078][318]Cmd: DELETE
+[2026.05.13-08.11.27:078][318]Cmd: ACTOR DELETE
+[2026.05.13-08.11.27:096][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.11.27:105][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.11.27:108][318]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.11.27:878][402]Cmd: DELETE
+[2026.05.13-08.11.27:878][402]Cmd: ACTOR DELETE
+[2026.05.13-08.11.27:895][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.11.27:904][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.11.27:907][402]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.05.13-08.11.28:503][462]Cmd: DELETE
+[2026.05.13-08.11.28:503][462]Cmd: ACTOR DELETE
+[2026.05.13-08.11.28:519][462]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.11.28:530][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.11.28:533][462]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.11.29:802][612]Cmd: TRANSACTION UNDO
+[2026.05.13-08.11.29:802][612]LogEditorTransaction: Undo Delete Elements
+[2026.05.13-08.11.31:896][816]Cmd: DELETE
+[2026.05.13-08.11.31:896][816]Cmd: ACTOR DELETE
+[2026.05.13-08.11.31:914][816]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.11.31:923][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.11.31:926][816]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.11.34:414][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.11.34:414][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.11.34:415][ 83]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_90
+[2026.05.13-08.11.35:048][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.11.35:052][157]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.11.35:055][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.11.35:055][157]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates
+[2026.05.13-08.11.35:057][157]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/MetalPlates.MetalPlates as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_91
+[2026.05.13-08.12.07:388][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-08.12.07:388][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-08.12.07:388][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_92
+[2026.05.13-08.12.07:923][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.12.07:926][971]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.12.07:929][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-08.12.07:929][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m
+[2026.05.13-08.12.07:931][971]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Boards2m.Boards2m as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_93
+[2026.05.13-08.12.34:627][111]Cmd: DELETE
+[2026.05.13-08.12.34:627][111]Cmd: ACTOR DELETE
+[2026.05.13-08.12.34:645][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.12.34:655][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.12.34:658][111]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.05.13-08.14.48:681][ 73]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.14.48:754][ 75]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.14.48:803][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/TreeStumpBig.TreeStumpBig
+[2026.05.13-08.14.48:803][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/TreeStumpBig.TreeStumpBig
+[2026.05.13-08.14.48:805][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/TreeStumpBig.TreeStumpBig as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_95
+[2026.05.13-08.14.49:616][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.14.49:620][174]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.14.49:623][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/TreeStumpBig.TreeStumpBig
+[2026.05.13-08.14.49:623][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/TreeStumpBig.TreeStumpBig
+[2026.05.13-08.14.49:626][174]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/TreeStumpBig.TreeStumpBig as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_96
+[2026.05.13-08.15.19:598][582]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.15.19:739][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Plywood.Plywood
+[2026.05.13-08.15.19:739][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Plywood.Plywood
+[2026.05.13-08.15.19:739][591]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Plywood.Plywood as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_97
+[2026.05.13-08.15.19:745][591]LogRenderer: Using fallback RTPSO
+[2026.05.13-08.15.20:355][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.15.20:359][662]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.15.20:360][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Plywood.Plywood
+[2026.05.13-08.15.20:360][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PostApocalypticSandbox/Meshes/Plywood.Plywood
+[2026.05.13-08.15.20:363][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/PostApocalypticSandbox/Meshes/Plywood.Plywood as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_98
+[2026.05.13-08.15.59:333][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11233.444336
+[2026.05.13-08.15.59:468][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.15.59:468][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11233.571289, Update Interval: 347.191376
+[2026.05.13-08.16.00:920][382]Cmd: TRANSACTION UNDO
+[2026.05.13-08.16.00:920][382]LogEditorTransaction: Undo Set Location
+[2026.05.13-08.17.52:908][460]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.17.52:908][460]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.17.52:908][460]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_101
+[2026.05.13-08.17.53:742][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.13-08.17.53:752][557]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.05.13-08.17.53:754][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.17.53:754][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.17.53:755][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_102
+[2026.05.13-08.17.59:477][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.17.59:477][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.17.59:478][218]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_103
+[2026.05.13-08.18.00:038][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.18.00:040][281]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2026.05.13-08.18.00:043][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.18.00:043][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.18.00:044][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_104
+[2026.05.13-08.18.39:524][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_b.SM_prop_dining_chair_b
+[2026.05.13-08.18.39:524][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_b.SM_prop_dining_chair_b
+[2026.05.13-08.18.39:526][792]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_b.SM_prop_dining_chair_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_106
+[2026.05.13-08.18.40:468][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.18.40:473][899]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.18.40:474][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_b.SM_prop_dining_chair_b
+[2026.05.13-08.18.40:476][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_b.SM_prop_dining_chair_b
+[2026.05.13-08.18.40:476][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_b.SM_prop_dining_chair_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_107
+[2026.05.13-08.18.43:900][269]Cmd: DELETE
+[2026.05.13-08.18.43:900][269]Cmd: ACTOR DELETE
+[2026.05.13-08.18.43:918][269]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.18.43:929][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.18.43:932][269]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.18.47:326][637]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.18.47:326][637]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.18.47:326][637]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_108
+[2026.05.13-08.18.48:069][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.18.48:074][724]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.18.48:075][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.18.48:075][724]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.18.48:077][724]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_109
+[2026.05.13-08.19.03:021][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.03:021][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.03:022][310]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_110
+[2026.05.13-08.19.03:457][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.19.03:461][358]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.19.03:464][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.03:464][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.03:465][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_111
+[2026.05.13-08.19.37:334][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.19.37:334][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.19.37:334][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_112
+[2026.05.13-08.19.37:931][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.19.37:934][248]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.19.37:937][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.19.37:937][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.19.37:940][248]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_113
+[2026.05.13-08.19.54:772][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.54:772][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.54:774][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_114
+[2026.05.13-08.19.55:318][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.19.55:322][196]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.19.55:326][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.55:326][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.19.55:327][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_115
+[2026.05.13-08.20.46:561][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_table_umbrellabase_a.SM_prop_table_umbrellabase_a
+[2026.05.13-08.20.46:561][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_table_umbrellabase_a.SM_prop_table_umbrellabase_a
+[2026.05.13-08.20.46:561][890]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_table_umbrellabase_a.SM_prop_table_umbrellabase_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_116
+[2026.05.13-08.20.47:427][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.20.47:430][988]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.20.47:432][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_table_umbrellabase_a.SM_prop_table_umbrellabase_a
+[2026.05.13-08.20.47:432][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_table_umbrellabase_a.SM_prop_table_umbrellabase_a
+[2026.05.13-08.20.47:434][988]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_table_umbrellabase_a.SM_prop_table_umbrellabase_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_117
+[2026.05.13-08.21.05:201][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hotdog_cart/SM_food_cart.SM_food_cart
+[2026.05.13-08.21.05:201][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hotdog_cart/SM_food_cart.SM_food_cart
+[2026.05.13-08.21.05:201][963]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hotdog_cart/SM_food_cart.SM_food_cart as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_118
+[2026.05.13-08.21.05:947][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.21.05:952][ 48]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.21.05:955][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hotdog_cart/SM_food_cart.SM_food_cart
+[2026.05.13-08.21.05:955][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hotdog_cart/SM_food_cart.SM_food_cart
+[2026.05.13-08.21.05:957][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hotdog_cart/SM_food_cart.SM_food_cart as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_119
+[2026.05.13-08.21.20:603][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.21.20:603][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.21.20:603][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_120
+[2026.05.13-08.21.21:231][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.21.21:235][763]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.21.21:238][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.21.21:238][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.21.21:240][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_121
+[2026.05.13-08.21.43:691][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.21.43:691][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.21.43:691][379]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_122
+[2026.05.13-08.21.44:148][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.05.13-08.21.44:151][429]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.21.44:154][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.21.44:154][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.21.44:155][429]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_123
+[2026.05.13-08.21.51:439][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_mustard.SM_food_mustard
+[2026.05.13-08.21.51:439][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_mustard.SM_food_mustard
+[2026.05.13-08.21.51:440][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_mustard.SM_food_mustard as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_124
+[2026.05.13-08.21.51:966][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.21.51:969][338]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.21.51:973][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_mustard.SM_food_mustard
+[2026.05.13-08.21.51:973][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_mustard.SM_food_mustard
+[2026.05.13-08.21.51:975][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_mustard.SM_food_mustard as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_125
+[2026.05.13-08.21.54:487][631]Cmd: TRANSACTION UNDO
+[2026.05.13-08.21.54:487][631]LogEditorTransaction: Undo Set Location
+[2026.05.13-08.22.02:188][520]Cmd: TRANSACTION UNDO
+[2026.05.13-08.22.02:188][520]LogEditorTransaction: Undo Set Location
+[2026.05.13-08.22.18:685][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_b.SM_food_pretzel_b
+[2026.05.13-08.22.18:685][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_b.SM_food_pretzel_b
+[2026.05.13-08.22.18:687][418]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_b.SM_food_pretzel_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_126
+[2026.05.13-08.22.19:569][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.22.19:574][520]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.22.19:577][520]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_b.SM_food_pretzel_b
+[2026.05.13-08.22.19:577][520]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_b.SM_food_pretzel_b
+[2026.05.13-08.22.19:578][520]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_b.SM_food_pretzel_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_127
+[2026.05.13-08.22.24:498][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11618.648438
+[2026.05.13-08.22.24:641][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.22.24:641][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11618.781250, Update Interval: 320.940582
+[2026.05.13-08.23.08:634][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_a.SM_building_f_brick_a
+[2026.05.13-08.23.08:634][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_a.SM_building_f_brick_a
+[2026.05.13-08.23.08:635][102]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_a.SM_building_f_brick_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_130
+[2026.05.13-08.23.09:076][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.23.09:082][150]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.05.13-08.23.09:084][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_a.SM_building_f_brick_a
+[2026.05.13-08.23.09:086][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_a.SM_building_f_brick_a
+[2026.05.13-08.23.09:086][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_a.SM_building_f_brick_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_131
+[2026.05.13-08.23.18:276][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.18:276][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.18:277][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_132
+[2026.05.13-08.23.19:156][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.23.19:159][324]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.23.19:162][324]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.19:162][324]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.19:163][324]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_133
+[2026.05.13-08.23.32:253][863]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.23.32:253][863]LogStaticMesh: Display: Building static mesh SM_building_f_brick_b (Required Memory Estimate: 1.757724 MB)...
+[2026.05.13-08.23.32:263][863]LogStaticMesh: Built static mesh [0.01s] /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b
+[2026.05.13-08.23.32:380][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b
+[2026.05.13-08.23.32:380][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b
+[2026.05.13-08.23.32:380][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_134
+[2026.05.13-08.23.33:130][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.23.33:133][957]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.23.33:136][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b
+[2026.05.13-08.23.33:136][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b
+[2026.05.13-08.23.33:137][957]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_b.SM_building_f_brick_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_135
+[2026.05.13-08.23.41:638][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.41:638][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.41:639][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_136
+[2026.05.13-08.23.42:063][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.23.42:068][891]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.23.42:069][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.42:069][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c
+[2026.05.13-08.23.42:072][891]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_building_f_brick_c.SM_building_f_brick_c as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_137
+[2026.05.13-08.23.53:820][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_brick_b.SM_brick_b
+[2026.05.13-08.23.53:820][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_brick_b.SM_brick_b
+[2026.05.13-08.23.53:820][102]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_brick_b.SM_brick_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_138
+[2026.05.13-08.23.54:284][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.23.54:287][153]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.05.13-08.23.54:290][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_brick_b.SM_brick_b
+[2026.05.13-08.23.54:290][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_brick_b.SM_brick_b
+[2026.05.13-08.23.54:292][153]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/bricks_large/SM_brick_b.SM_brick_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_139
+[2026.05.13-08.24.56:984][178]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.56:984][178]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.57:171][185]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.57:171][185]LogEditorTransaction: Undo Rotate Elements
+[2026.05.13-08.24.57:339][191]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.57:339][191]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.57:504][194]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.57:506][194]LogEditorTransaction: Undo Rotate Elements
+[2026.05.13-08.24.57:691][213]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.57:691][213]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.57:864][223]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.57:866][223]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.58:097][249]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.58:097][249]LogEditorTransaction: Undo Rotate Elements
+[2026.05.13-08.24.58:313][273]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.58:313][273]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-08.24.58:552][294]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.58:552][294]LogEditorTransaction: Undo Rotate Elements
+[2026.05.13-08.24.58:786][321]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.58:786][321]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.59:122][354]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.59:122][354]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.59:622][413]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.59:622][413]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.24.59:956][452]Cmd: TRANSACTION UNDO
+[2026.05.13-08.24.59:956][452]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.25.00:206][481]Cmd: TRANSACTION UNDO
+[2026.05.13-08.25.00:206][481]LogEditorTransaction: Undo Move Elements
+[2026.05.13-08.25.00:602][520]Cmd: TRANSACTION UNDO
+[2026.05.13-08.25.00:602][520]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-08.25.16:603][342]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-08.25.16:714][348]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_pillar_with_posters.SM_prop_poster_pillar_with_posters
+[2026.05.13-08.25.16:714][348]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_pillar_with_posters.SM_prop_poster_pillar_with_posters
+[2026.05.13-08.25.16:716][348]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_pillar_with_posters.SM_prop_poster_pillar_with_posters as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_150
+[2026.05.13-08.25.20:552][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.25.20:559][803]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.05.13-08.25.20:563][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_pillar_with_posters.SM_prop_poster_pillar_with_posters
+[2026.05.13-08.25.20:563][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_pillar_with_posters.SM_prop_poster_pillar_with_posters
+[2026.05.13-08.25.20:565][803]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_pillar_with_posters.SM_prop_poster_pillar_with_posters as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_151
+[2026.05.13-08.25.43:371][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.05.13-08.25.43:382][359]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.05.13-08.26.10:733][602]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 488...e44
+[2026.05.13-08.26.10:733][602]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.548e+07
+[2026.05.13-08.26.10:884][620]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 488...e44 Access[Expires: 2026.05.13-10.26.10 Remaining: 7200.80] Refresh[Expires: 2026-11-08T11:53:33.609Z Remaining: 15478043.61] State: Valid
+[2026.05.13-08.26.29:585][809]Cmd: DELETE
+[2026.05.13-08.26.29:585][809]Cmd: ACTOR DELETE
+[2026.05.13-08.26.29:602][809]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.26.29:613][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.26.29:620][809]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.05.13-08.27.59:535][308]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/props_dining_railings/SM_dining_railing_a.SM_dining_railing_a
+[2026.05.13-08.27.59:537][308]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/props_dining_railings/SM_dining_railing_a.SM_dining_railing_a
+[2026.05.13-08.27.59:537][308]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/props_dining_railings/SM_dining_railing_a.SM_dining_railing_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_152
+[2026.05.13-08.28.01:003][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.05.13-08.28.01:011][479]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.05.13-08.28.01:013][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/props_dining_railings/SM_dining_railing_a.SM_dining_railing_a
+[2026.05.13-08.28.01:013][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/props_dining_railings/SM_dining_railing_a.SM_dining_railing_a
+[2026.05.13-08.28.01:014][479]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/props_dining_railings/SM_dining_railing_a.SM_dining_railing_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_153
+[2026.05.13-08.28.19:448][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11973.726562
+[2026.05.13-08.28.19:589][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.28.19:589][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11973.859375, Update Interval: 341.983704
+[2026.05.13-08.28.42:250][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.28.42:250][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.28.42:251][201]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_156
+[2026.05.13-08.28.42:784][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.28.42:788][259]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.05.13-08.28.42:791][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.28.42:791][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.28.42:792][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_157
+[2026.05.13-08.29.14:689][790]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarppost_b.SM_tarppost_b
+[2026.05.13-08.29.14:689][790]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarppost_b.SM_tarppost_b
+[2026.05.13-08.29.14:689][790]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarppost_b.SM_tarppost_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_158
+[2026.05.13-08.29.15:301][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.29.15:304][860]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.29.15:308][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarppost_b.SM_tarppost_b
+[2026.05.13-08.29.15:308][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarppost_b.SM_tarppost_b
+[2026.05.13-08.29.15:308][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarppost_b.SM_tarppost_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_159
+[2026.05.13-08.29.17:944][156]Cmd: DELETE
+[2026.05.13-08.29.17:944][156]Cmd: ACTOR DELETE
+[2026.05.13-08.29.17:961][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.29.17:973][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.29.17:974][156]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.29.18:871][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.29.18:871][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.29.18:872][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_160
+[2026.05.13-08.29.19:328][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.29.19:331][305]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.29.19:531][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.29.19:531][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.29.19:531][328]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_161
+[2026.05.13-08.29.19:928][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-08.29.19:929][373]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2026.05.13-08.29.19:931][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.29.19:931][373]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp
+[2026.05.13-08.29.19:932][373]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_hanging_tarps/SM_tarp.SM_tarp as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_162
+[2026.05.13-08.29.20:627][448]Cmd: DELETE
+[2026.05.13-08.29.20:627][448]Cmd: ACTOR DELETE
+[2026.05.13-08.29.20:644][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.29.20:656][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.29.20:657][448]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.05.13-08.29.21:601][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a_C
+[2026.05.13-08.29.21:603][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a_C
+[2026.05.13-08.29.21:604][550]LogActorFactory: Actor Factory spawned Blueprint /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a as actor: BP_lightpost_a_C /Game/LV_Environment.LV_Environment:PersistentLevel.BP_lightpost_a_C_0
+[2026.05.13-08.29.21:606][550]LogActorFactory: Actor Factory spawned Blueprint /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a as actor: BP_lightpost_a_C /Game/LV_Environment.LV_Environment:PersistentLevel.BP_lightpost_a_C_0
+[2026.05.13-08.29.21:610][550]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.13-08.29.22:393][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.29.22:396][617]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.05.13-08.29.22:398][617]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a_C
+[2026.05.13-08.29.22:398][617]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a_C
+[2026.05.13-08.29.22:401][617]LogActorFactory: Actor Factory spawned Blueprint /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a as actor: BP_lightpost_a_C /Game/LV_Environment.LV_Environment:PersistentLevel.BP_lightpost_a_C_1
+[2026.05.13-08.29.22:403][617]LogActorFactory: Actor Factory spawned Blueprint /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.BP_lightpost_a as actor: BP_lightpost_a_C /Game/LV_Environment.LV_Environment:PersistentLevel.BP_lightpost_a_C_1
+[2026.05.13-08.29.23:858][784]Cmd: DELETE
+[2026.05.13-08.29.23:858][784]Cmd: ACTOR DELETE
+[2026.05.13-08.29.23:875][784]LogEditorActor: Deleted Actor: BP_lightpost_a_C
+[2026.05.13-08.29.23:890][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.29.23:892][784]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.05.13-08.29.47:271][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fire_hydrant/SM_prop_hydrant_trim.SM_prop_hydrant_trim
+[2026.05.13-08.29.47:271][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fire_hydrant/SM_prop_hydrant_trim.SM_prop_hydrant_trim
+[2026.05.13-08.29.47:271][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_fire_hydrant/SM_prop_hydrant_trim.SM_prop_hydrant_trim as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_163
+[2026.05.13-08.29.48:147][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.29.48:151][642]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-08.29.48:154][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fire_hydrant/SM_prop_hydrant_trim.SM_prop_hydrant_trim
+[2026.05.13-08.29.48:154][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_fire_hydrant/SM_prop_hydrant_trim.SM_prop_hydrant_trim
+[2026.05.13-08.29.48:156][642]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_fire_hydrant/SM_prop_hydrant_trim.SM_prop_hydrant_trim as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_164
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: ================================================
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Total job queries 1,134, among them cache hits 415 (36.60%), DDC hits 636 (56.08%), Duplicates 82 (7.23%)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Tracking 637 distinct input hashes that result in 420 distinct outputs (65.93%)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: RAM used: 4.81 MiB of 1.60 GiB budget. Usage: 0.29%
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 1.01 s
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 1.11
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Shader code size: total 14.359 KiB, numShaders 2, average 7.18 KiB, min 4.582 KiB, max 9.777 KiB
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.11 s
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Average processing rate: 0.90 jobs/sec
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Total thread time: 0.649 s
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Total thread preprocess time: 7.97 s
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Percentage time preprocessing: 1228.07%
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.146315
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                     FRenderVolumetricCloudVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                                  FVelocityPS - 63.66% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                                  FVelocityVS - 36.34% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: === Material stats ===
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Materials Translated:    235
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Material Translation Only: 0.05 s (46%)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: Material Cache Hits: 79 (34%)
+[2026.05.13-08.29.49:790][813]LogShaderCompilers: Display: ================================================
+[2026.05.13-08.30.27:111][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_bench_wood/SM_bench_wood_a.SM_bench_wood_a
+[2026.05.13-08.30.27:111][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_bench_wood/SM_bench_wood_a.SM_bench_wood_a
+[2026.05.13-08.30.27:111][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_bench_wood/SM_bench_wood_a.SM_bench_wood_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_165
+[2026.05.13-08.30.27:841][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.30.27:844][152]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.30.27:847][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_bench_wood/SM_bench_wood_a.SM_bench_wood_a
+[2026.05.13-08.30.27:847][152]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_bench_wood/SM_bench_wood_a.SM_bench_wood_a
+[2026.05.13-08.30.27:849][152]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_bench_wood/SM_bench_wood_a.SM_bench_wood_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_166
+[2026.05.13-08.31.14:300][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.31.14:300][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.31.14:301][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_168
+[2026.05.13-08.31.15:162][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.31.15:165][709]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.31.15:168][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.31.15:168][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.31.15:170][709]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_169
+[2026.05.13-08.32.12:222][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_bunny.SM_bunny
+[2026.05.13-08.32.12:222][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_bunny.SM_bunny
+[2026.05.13-08.32.12:224][364]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_bunny.SM_bunny as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_170
+[2026.05.13-08.32.13:087][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.32.13:091][464]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.05.13-08.32.13:094][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_bunny.SM_bunny
+[2026.05.13-08.32.13:094][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_bunny.SM_bunny
+[2026.05.13-08.32.13:096][464]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_bunny.SM_bunny as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_171
+[2026.05.13-08.32.23:005][574]Cmd: TRANSACTION UNDO
+[2026.05.13-08.32.23:005][574]LogEditorTransaction: Undo Scale Elements
+[2026.05.13-08.32.36:956][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_tortoise.SM_tortoise
+[2026.05.13-08.32.36:956][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_tortoise.SM_tortoise
+[2026.05.13-08.32.36:956][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_tortoise.SM_tortoise as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_172
+[2026.05.13-08.32.37:637][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.32.37:641][175]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.32.37:644][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_tortoise.SM_tortoise
+[2026.05.13-08.32.37:644][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_tortoise.SM_tortoise
+[2026.05.13-08.32.37:645][175]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_statues_playground/SM_tortoise.SM_tortoise as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_173
+[2026.05.13-08.33.57:933][489]Cmd: DELETE
+[2026.05.13-08.33.57:933][489]Cmd: ACTOR DELETE
+[2026.05.13-08.33.57:951][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.33.57:964][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.13-08.33.57:968][489]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.05.13-08.34.55:771][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.34.55:771][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.34.55:773][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_181
+[2026.05.13-08.34.56:903][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.34.56:908][183]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-08.34.56:911][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.34.56:911][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin
+[2026.05.13-08.34.56:913][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_recycle_bin/SM_prop_recycle_bin.SM_prop_recycle_bin as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_182
+[2026.05.13-08.34.59:024][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12373.536133
+[2026.05.13-08.34.59:173][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.34.59:173][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12373.678711, Update Interval: 300.161133
+[2026.05.13-08.35.08:605][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_sewer_caps/SM_sewer_cap_b.SM_sewer_cap_b
+[2026.05.13-08.35.08:605][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_sewer_caps/SM_sewer_cap_b.SM_sewer_cap_b
+[2026.05.13-08.35.08:605][554]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_sewer_caps/SM_sewer_cap_b.SM_sewer_cap_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_183
+[2026.05.13-08.35.09:133][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.35.09:136][613]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.35.09:140][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_sewer_caps/SM_sewer_cap_b.SM_sewer_cap_b
+[2026.05.13-08.35.09:140][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_sewer_caps/SM_sewer_cap_b.SM_sewer_cap_b
+[2026.05.13-08.35.09:141][613]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_sewer_caps/SM_sewer_cap_b.SM_sewer_cap_b as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_184
+[2026.05.13-08.35.42:244][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.35.42:244][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.35.42:244][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_187
+[2026.05.13-08.35.42:973][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.35.42:978][543]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-08.35.42:981][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.35.42:981][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a
+[2026.05.13-08.35.42:983][543]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_chair_a.SM_prop_dining_chair_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_188
+[2026.05.13-08.35.51:573][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.35.51:573][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.35.51:574][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_189
+[2026.05.13-08.35.52:357][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.35.52:360][574]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.35.52:363][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.35.52:363][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a
+[2026.05.13-08.35.52:364][574]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_table/SM_prop_dining_table_a.SM_prop_dining_table_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_190
+[2026.05.13-08.36.24:629][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_rtrocket.SM_food_can_rtrocket
+[2026.05.13-08.36.24:629][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_rtrocket.SM_food_can_rtrocket
+[2026.05.13-08.36.24:630][307]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_rtrocket.SM_food_can_rtrocket as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_191
+[2026.05.13-08.36.26:835][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.36.26:840][567]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.05.13-08.36.26:842][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_rtrocket.SM_food_can_rtrocket
+[2026.05.13-08.36.26:842][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_rtrocket.SM_food_can_rtrocket
+[2026.05.13-08.36.26:844][567]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_rtrocket.SM_food_can_rtrocket as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_192
+[2026.05.13-08.36.41:840][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.36.41:840][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.36.41:840][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_194
+[2026.05.13-08.36.42:332][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-08.36.42:333][334]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.05.13-08.36.42:337][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.36.42:337][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout
+[2026.05.13-08.36.42:338][334]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_bottle_sprout.SM_food_bottle_sprout as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_195
+[2026.05.13-08.36.53:751][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_bottle_seasaltsoda.SM_bottle_seasaltsoda
+[2026.05.13-08.36.53:751][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_bottle_seasaltsoda.SM_bottle_seasaltsoda
+[2026.05.13-08.36.53:751][602]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_bottle_seasaltsoda.SM_bottle_seasaltsoda as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_196
+[2026.05.13-08.36.54:305][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.36.54:308][664]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.36.54:311][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_bottle_seasaltsoda.SM_bottle_seasaltsoda
+[2026.05.13-08.36.54:311][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_bottle_seasaltsoda.SM_bottle_seasaltsoda
+[2026.05.13-08.36.54:313][664]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_bottle_seasaltsoda.SM_bottle_seasaltsoda as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_197
+[2026.05.13-08.37.03:051][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_a.SM_food_pretzel_a
+[2026.05.13-08.37.03:051][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_a.SM_food_pretzel_a
+[2026.05.13-08.37.03:051][624]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_a.SM_food_pretzel_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_199
+[2026.05.13-08.37.03:788][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.37.03:792][708]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.37.03:795][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_a.SM_food_pretzel_a
+[2026.05.13-08.37.03:795][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_a.SM_food_pretzel_a
+[2026.05.13-08.37.03:796][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_pretzel_a.SM_food_pretzel_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_200
+[2026.05.13-08.38.27:728][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_lemore.SM_food_can_lemore
+[2026.05.13-08.38.27:728][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_lemore.SM_food_can_lemore
+[2026.05.13-08.38.27:730][459]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_lemore.SM_food_can_lemore as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_202
+[2026.05.13-08.38.28:435][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.13-08.38.28:440][535]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.05.13-08.38.28:442][535]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_lemore.SM_food_can_lemore
+[2026.05.13-08.38.28:442][535]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_lemore.SM_food_can_lemore
+[2026.05.13-08.38.28:443][535]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_can_lemore.SM_food_can_lemore as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_203
+[2026.05.13-08.38.37:885][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.38.37:885][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.38.37:886][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_204
+[2026.05.13-08.38.38:363][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.38.38:366][687]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.38.38:369][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.38.38:369][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup
+[2026.05.13-08.38.38:371][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_food/SM_food_ketchup.SM_food_ketchup as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_205
+[2026.05.13-08.38.55:911][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_stand.SM_prop_poster_stand
+[2026.05.13-08.38.55:911][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_stand.SM_prop_poster_stand
+[2026.05.13-08.38.55:911][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_stand.SM_prop_poster_stand as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_206
+[2026.05.13-08.38.56:717][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.38.56:722][825]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-08.38.56:724][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_stand.SM_prop_poster_stand
+[2026.05.13-08.38.56:724][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_stand.SM_prop_poster_stand
+[2026.05.13-08.38.56:726][825]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_poster_stands/SM_prop_poster_stand.SM_prop_poster_stand as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_207
+[2026.05.13-08.39.21:302][594]Cmd: DELETE
+[2026.05.13-08.39.21:302][594]Cmd: ACTOR DELETE
+[2026.05.13-08.39.21:320][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.39.21:333][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.39.21:337][594]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.05.13-08.40.53:823][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand.SM_looking_stand
+[2026.05.13-08.40.53:823][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand.SM_looking_stand
+[2026.05.13-08.40.53:823][354]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand.SM_looking_stand as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_210
+[2026.05.13-08.40.54:597][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.40.54:601][442]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.05.13-08.40.54:604][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand.SM_looking_stand
+[2026.05.13-08.40.54:604][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand.SM_looking_stand
+[2026.05.13-08.40.54:606][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand.SM_looking_stand as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_211
+[2026.05.13-08.40.55:000][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12729.623047
+[2026.05.13-08.40.55:143][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-08.40.55:144][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12729.753906, Update Interval: 303.695190
+[2026.05.13-08.41.10:736][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand_Tall.SM_looking_stand_tall
+[2026.05.13-08.41.10:736][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand_Tall.SM_looking_stand_tall
+[2026.05.13-08.41.10:737][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand_Tall.SM_looking_stand_tall as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_212
+[2026.05.13-08.41.12:326][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.41.12:329][467]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2026.05.13-08.41.12:331][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand_Tall.SM_looking_stand_tall
+[2026.05.13-08.41.12:331][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand_Tall.SM_looking_stand_tall
+[2026.05.13-08.41.12:333][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_looking_stand_Tall.SM_looking_stand_tall as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_213
+[2026.05.13-08.41.29:540][375]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_sign_a.SM_sign_a
+[2026.05.13-08.41.29:540][375]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_sign_a.SM_sign_a
+[2026.05.13-08.41.29:540][375]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_sign_a.SM_sign_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_214
+[2026.05.13-08.41.30:103][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.05.13-08.41.30:106][438]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.05.13-08.41.30:109][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_sign_a.SM_sign_a
+[2026.05.13-08.41.30:109][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_sign_a.SM_sign_a
+[2026.05.13-08.41.30:111][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_drinking_signage/SM_sign_a.SM_sign_a as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_215
+[2026.05.13-08.41.31:481][595]Cmd: DELETE
+[2026.05.13-08.41.31:481][595]Cmd: ACTOR DELETE
+[2026.05.13-08.41.31:499][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.41.31:513][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.05.13-08.41.31:516][595]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.05.13-08.41.41:867][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_car_pillar/SM_prop_car_pillar.SM_prop_car_pillar
+[2026.05.13-08.41.41:867][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_car_pillar/SM_prop_car_pillar.SM_prop_car_pillar
+[2026.05.13-08.41.41:869][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_car_pillar/SM_prop_car_pillar.SM_prop_car_pillar as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_216
+[2026.05.13-08.41.42:251][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.05.13-08.41.42:256][859]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.05.13-08.41.42:259][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_car_pillar/SM_prop_car_pillar.SM_prop_car_pillar
+[2026.05.13-08.41.42:259][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Downtown_West/Assets/props/prop_car_pillar/SM_prop_car_pillar.SM_prop_car_pillar
+[2026.05.13-08.41.42:261][859]LogActorFactory: Actor Factory spawned StaticMesh /Game/Downtown_West/Assets/props/prop_car_pillar/SM_prop_car_pillar.SM_prop_car_pillar as actor: StaticMeshActor /Game/LV_Environment.LV_Environment:PersistentLevel.StaticMeshActor_217
+[2026.05.13-08.42.31:614][352]Cmd: DELETE
+[2026.05.13-08.42.31:614][352]Cmd: ACTOR DELETE
+[2026.05.13-08.42.31:614][352]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.05.13-08.42.31:631][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.42.31:633][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.42.31:633][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.13-08.42.31:647][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-08.42.31:651][352]LogEditorActor: Deleted 3 Actors (0.038 secs)
+[2026.05.13-08.42.42:280][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-08.42.42:333][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.05.13-08.42.42:604][579]LogSavePackage: Moving output files for package: /Game/LV_Environment
+[2026.05.13-08.42.42:604][579]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_EnvironmentFEF779084DA5CEB9C6782B897A0D4973.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap'
+[2026.05.13-08.42.42:614][579]LogFileHelpers: Saving map 'LV_Environment' took 0.304
+[2026.05.13-08.42.42:620][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 339.463 ms (total: 7.16 sec)
+[2026.05.13-08.42.42:649][579]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-08.42.42:649][579]LogContentValidation: Enabled validators:
+[2026.05.13-08.42.42:649][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-08.42.42:649][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-08.42.42:649][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-08.42.42:649][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-08.42.42:649][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-08.42.42:649][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-08.42.42:650][579]AssetCheck: /Game/LV_Environment Validating asset
