@@ -2260,3 +2260,18 @@ FPackageName: Skipped package /Game/Downtown_West/Textures/Sky/T_Water_01_N has 
 [2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.13-06.26.43:877][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.13-06.26.43:878][646]AssetCheck: /Game/LV_Environment Validating asset
+[2026.05.13-06.27.50:446][912]LogFab: Display: Logging in using persist
+[2026.05.13-06.27.50:500][912]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.05.13-06.27.50:502][912]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.05.13-06.27.50:736][932]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 488...e44 Access[Expires: 2026.05.13-08.27.50 Remaining: 7200.63] Refresh[Expires: 2026-11-08T11:53:33.609Z Remaining: 15485143.61] State: Valid
+[2026.05.13-06.27.50:744][933]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.05.13-06.27.50:898][950]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.05.13-06.27.50:898][950]LogFab: Display: User logged in
+[2026.05.13-06.27.50:898][950]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.05.13-06.27.51:056][969]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-hqtrbZHAyEKOSogk4KFYew-j1aWolqeNUW-3ow0oUvJnA]
+[2026.05.13-06.28.39:342][757]LogFab: Display: Add listing to project - d2136c01-8d35-403f-a637-146e8173bdb3
+[2026.05.13-06.28.39:342][757]LogFab: Display: Listing type - unreal-engine
+[2026.05.13-06.28.39:342][757]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/PerfectFbbf41cddaf26V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/PerfectFbbf41cddaf26V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/PerfectFbbf41cddaf26V1/CloudDir,https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/PerfectFbbf41cddaf26V1/CloudDir
+[2026.05.13-06.28.41:765][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.13-06.28.41:765][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/unreal projects/Private/VirtualProduction/VirtualProduction/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.13-06.28.41:765][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Developers/dylan/Collections/' because it could not be accessed. Aborting watch request...
