@@ -1751,3 +1751,1084 @@ FPackageName: Skipped package /Game/Downtown_West/Textures/Wind/T_wind_normal ha
 [2026.05.12-12.11.01:973][811]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2026.05.12-12.11.01:973][811]LogShaderCompilers: Display: Material Cache Hits: 53 (23%)
 [2026.05.12-12.11.01:973][811]LogShaderCompilers: Display: ================================================
+[2026.05.12-12.14.22:058][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1284.178833
+[2026.05.12-12.14.23:058][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.14.23:058][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1284.848145, Update Interval: 341.888489
+[2026.05.12-12.20.33:181][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1655.301147
+[2026.05.12-12.20.34:180][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.20.34:180][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1655.967896, Update Interval: 346.235535
+[2026.05.12-12.27.19:227][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2061.346436
+[2026.05.12-12.27.20:227][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.27.20:227][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2062.013184, Update Interval: 357.907043
+[2026.05.12-12.34.08:935][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2471.055908
+[2026.05.12-12.34.09:933][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.34.09:933][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2471.722168, Update Interval: 321.125519
+[2026.05.12-12.40.06:967][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2829.091064
+[2026.05.12-12.40.07:968][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.40.07:968][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2829.757812, Update Interval: 320.817902
+[2026.05.12-12.46.21:006][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3203.127441
+[2026.05.12-12.46.22:007][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.46.22:007][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3203.794434, Update Interval: 358.505798
+[2026.05.12-12.53.16:063][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3618.187256
+[2026.05.12-12.53.17:063][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.53.17:063][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3618.854736, Update Interval: 317.752625
+[2026.05.12-12.54.46:966][685]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-12.59.12:435][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3974.558838
+[2026.05.12-12.59.13:435][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-12.59.13:435][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3975.226074, Update Interval: 334.186829
+[2026.05.12-13.05.32:480][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4354.600098
+[2026.05.12-13.05.33:480][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.05.33:480][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4355.267090, Update Interval: 355.605347
+[2026.05.12-13.12.26:529][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4768.638184
+[2026.05.12-13.12.27:529][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.12.27:529][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4769.305176, Update Interval: 351.505493
+[2026.05.12-13.19.16:583][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5178.691406
+[2026.05.12-13.19.17:584][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.19.17:584][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5179.357422, Update Interval: 356.198608
+[2026.05.12-13.26.06:627][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5588.736816
+[2026.05.12-13.26.07:627][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.26.07:627][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5589.404297, Update Interval: 352.891632
+[2026.05.12-13.33.00:349][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6002.458984
+[2026.05.12-13.33.01:349][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.33.01:349][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6003.125488, Update Interval: 335.334930
+[2026.05.12-13.39.15:394][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6377.498535
+[2026.05.12-13.39.16:396][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.39.16:396][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6378.165039, Update Interval: 306.220276
+[2026.05.12-13.45.02:435][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6724.537598
+[2026.05.12-13.45.03:436][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.45.03:436][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6725.204102, Update Interval: 355.068817
+[2026.05.12-13.51.49:811][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7131.908203
+[2026.05.12-13.51.50:812][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.51.50:812][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7132.574707, Update Interval: 330.367126
+[2026.05.12-13.54.46:964][484]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-13.57.59:845][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7501.932129
+[2026.05.12-13.58.00:846][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-13.58.00:846][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7502.600098, Update Interval: 348.614166
+[2026.05.12-14.04.28:224][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7890.305176
+[2026.05.12-14.04.29:224][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.04.29:224][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7890.971680, Update Interval: 334.304016
+[2026.05.12-14.10.44:613][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8266.688477
+[2026.05.12-14.10.45:613][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.10.45:614][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8267.355469, Update Interval: 307.227386
+[2026.05.12-14.16.26:327][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8608.397461
+[2026.05.12-14.16.27:327][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.16.27:327][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8609.064453, Update Interval: 334.124573
+[2026.05.12-14.22.47:369][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8989.443359
+[2026.05.12-14.22.48:369][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.22.48:369][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8990.109375, Update Interval: 328.484741
+[2026.05.12-14.29.09:416][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9371.482422
+[2026.05.12-14.29.10:416][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.29.10:416][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9372.149414, Update Interval: 302.380432
+[2026.05.12-14.34.51:447][696]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9713.518555
+[2026.05.12-14.34.52:446][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.34.52:446][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9714.185547, Update Interval: 355.259247
+[2026.05.12-14.41.31:496][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10113.565430
+[2026.05.12-14.41.32:497][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.41.32:497][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10114.232422, Update Interval: 354.100159
+[2026.05.12-14.48.12:213][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10514.275391
+[2026.05.12-14.48.13:213][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.48.13:213][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10514.941406, Update Interval: 304.854279
+[2026.05.12-14.54.03:253][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10865.315430
+[2026.05.12-14.54.04:253][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.54.04:253][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10865.982422, Update Interval: 303.839844
+[2026.05.12-14.54.46:964][283]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-14.59.54:303][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11216.365234
+[2026.05.12-14.59.55:303][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-14.59.55:303][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11217.031250, Update Interval: 357.623230
+[2026.05.12-15.06.51:353][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11633.422852
+[2026.05.12-15.06.52:352][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.06.52:352][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11634.089844, Update Interval: 358.205505
+[2026.05.12-15.13.31:729][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12033.801758
+[2026.05.12-15.13.32:729][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.13.32:729][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12034.467773, Update Interval: 304.418457
+[2026.05.12-15.19.25:770][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12387.837891
+[2026.05.12-15.19.26:770][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.19.26:770][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12388.505859, Update Interval: 358.130432
+[2026.05.12-15.26.22:812][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12804.895508
+[2026.05.12-15.26.23:813][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.26.23:813][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12805.562500, Update Interval: 302.345642
+[2026.05.12-15.32.14:859][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13156.941406
+[2026.05.12-15.32.15:859][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.32.15:859][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13157.608398, Update Interval: 355.378265
+[2026.05.12-15.39.07:586][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13569.655273
+[2026.05.12-15.39.08:586][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.39.08:586][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13570.321289, Update Interval: 318.074890
+[2026.05.12-15.45.02:962][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13925.028320
+[2026.05.12-15.45.03:964][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.45.03:964][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13925.694336, Update Interval: 357.562805
+[2026.05.12-15.51.35:347][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14317.416016
+[2026.05.12-15.51.36:349][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.51.36:349][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14318.083008, Update Interval: 308.183228
+[2026.05.12-15.54.46:965][ 81]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-15.57.15:411][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14657.491211
+[2026.05.12-15.57.16:413][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-15.57.16:413][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14658.157227, Update Interval: 346.125671
+[2026.05.12-16.03.44:463][693]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15046.550781
+[2026.05.12-16.03.45:464][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.03.45:464][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15047.216797, Update Interval: 335.851318
+[2026.05.12-16.10.20:502][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15442.599609
+[2026.05.12-16.10.21:502][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.10.21:502][884]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15443.264648, Update Interval: 321.601624
+[2026.05.12-16.16.13:552][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15795.659180
+[2026.05.12-16.16.14:553][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.16.14:553][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15796.325195, Update Interval: 333.291412
+[2026.05.12-16.22.31:261][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16173.368164
+[2026.05.12-16.22.32:259][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.22.32:259][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16174.034180, Update Interval: 340.571930
+[2026.05.12-16.28.58:504][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16558.457031
+[2026.05.12-16.28.59:504][231]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.28.59:504][231]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16559.125000, Update Interval: 329.323395
+[2026.05.12-16.35.05:567][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16925.574219
+[2026.05.12-16.35.06:567][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.35.06:568][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16926.242188, Update Interval: 358.666962
+[2026.05.12-16.41.49:954][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17330.033203
+[2026.05.12-16.41.50:954][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.41.50:954][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17330.697266, Update Interval: 311.398651
+[2026.05.12-16.47.58:343][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17698.525391
+[2026.05.12-16.47.59:344][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.47.59:344][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17699.193359, Update Interval: 324.002197
+[2026.05.12-16.54.19:736][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18079.982422
+[2026.05.12-16.54.20:736][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-16.54.20:736][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18080.648438, Update Interval: 301.539978
+[2026.05.12-16.54.49:156][880]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-17.00.12:448][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18432.769531
+[2026.05.12-17.00.13:448][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.00.13:448][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18433.437500, Update Interval: 335.422821
+[2026.05.12-17.06.19:830][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18800.224609
+[2026.05.12-17.06.20:830][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.06.20:830][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18800.890625, Update Interval: 355.482666
+[2026.05.12-17.12.59:880][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19200.361328
+[2026.05.12-17.13.00:880][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.13.00:880][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19201.029297, Update Interval: 349.916077
+[2026.05.12-17.19.43:282][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19603.900391
+[2026.05.12-17.19.44:283][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.19.44:283][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19604.566406, Update Interval: 344.452026
+[2026.05.12-17.26.20:334][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20001.037109
+[2026.05.12-17.26.21:334][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.26.21:334][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20001.703125, Update Interval: 333.584412
+[2026.05.12-17.32.47:721][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20388.537109
+[2026.05.12-17.32.48:722][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.32.48:722][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20389.203125, Update Interval: 308.932159
+[2026.05.12-17.38.51:104][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20751.986328
+[2026.05.12-17.38.52:104][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.38.52:104][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20752.654297, Update Interval: 340.562744
+[2026.05.12-17.45.22:488][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21143.468750
+[2026.05.12-17.45.23:487][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.45.23:487][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21144.132812, Update Interval: 343.811157
+[2026.05.12-17.51.50:883][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21531.906250
+[2026.05.12-17.51.51:884][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.51.51:884][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21532.572266, Update Interval: 334.210632
+[2026.05.12-17.54.49:157][678]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-17.58.03:601][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21904.712891
+[2026.05.12-17.58.04:601][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-17.58.04:601][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21905.380859, Update Interval: 324.234741
+[2026.05.12-18.04.15:990][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22277.175781
+[2026.05.12-18.04.16:992][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.04.16:992][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22277.841797, Update Interval: 315.005951
+[2026.05.12-18.10.29:386][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22650.623047
+[2026.05.12-18.10.30:386][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.10.30:386][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22651.289062, Update Interval: 351.619019
+[2026.05.12-18.16.59:417][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23040.753906
+[2026.05.12-18.17.00:420][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.17.00:420][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23041.421875, Update Interval: 329.495544
+[2026.05.12-18.23.27:184][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23428.560547
+[2026.05.12-18.23.28:184][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.23.28:184][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23429.228516, Update Interval: 309.128082
+[2026.05.12-18.29.10:225][860]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23771.642578
+[2026.05.12-18.29.11:225][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.29.11:225][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23772.310547, Update Interval: 324.655914
+[2026.05.12-18.35.11:951][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24133.458984
+[2026.05.12-18.35.12:952][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.35.12:952][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24134.125000, Update Interval: 306.031677
+[2026.05.12-18.40.49:363][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24470.935547
+[2026.05.12-18.40.50:364][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.40.50:364][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24471.601562, Update Interval: 322.075867
+[2026.05.12-18.47.10:425][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24852.099609
+[2026.05.12-18.47.11:425][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.47.11:425][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24852.767578, Update Interval: 340.293579
+[2026.05.12-18.53.28:799][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25230.537109
+[2026.05.12-18.53.29:800][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-18.53.29:800][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25231.203125, Update Interval: 336.316406
+[2026.05.12-18.54.49:158][477]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-19.00.01:179][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25623.009766
+[2026.05.12-19.00.02:178][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.00.02:178][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25623.675781, Update Interval: 358.789642
+[2026.05.12-19.07.00:247][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26042.175781
+[2026.05.12-19.07.01:247][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.07.01:247][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26042.841797, Update Interval: 331.819214
+[2026.05.12-19.13.31:981][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26434.000000
+[2026.05.12-19.13.32:981][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.13.32:981][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26434.667969, Update Interval: 304.508209
+[2026.05.12-19.19.12:691][866]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26774.779297
+[2026.05.12-19.19.13:692][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.19.13:692][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26775.445312, Update Interval: 302.743011
+[2026.05.12-19.25.10:772][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27132.933594
+[2026.05.12-19.25.11:774][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.25.11:774][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27133.599609, Update Interval: 310.131531
+[2026.05.12-19.30.57:817][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27480.046875
+[2026.05.12-19.30.58:816][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.30.58:818][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27480.712891, Update Interval: 350.122986
+[2026.05.12-19.37.29:870][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27872.179688
+[2026.05.12-19.37.30:871][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.37.30:871][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27872.845703, Update Interval: 327.336639
+[2026.05.12-19.43.45:246][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28247.623047
+[2026.05.12-19.43.46:245][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.43.46:245][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28248.289062, Update Interval: 300.679352
+[2026.05.12-19.49.23:613][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28586.041016
+[2026.05.12-19.49.24:614][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.49.24:614][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28586.708984, Update Interval: 311.230194
+[2026.05.12-19.54.49:158][275]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-19.55.25:999][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28948.501953
+[2026.05.12-19.55.26:999][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-19.55.26:999][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28949.167969, Update Interval: 301.713928
+[2026.05.12-20.01.00:371][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29282.945312
+[2026.05.12-20.01.01:373][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.01.01:373][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29283.613281, Update Interval: 309.278229
+[2026.05.12-20.06.58:764][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29641.398438
+[2026.05.12-20.06.59:765][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.06.59:765][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29642.066406, Update Interval: 316.408569
+[2026.05.12-20.13.05:817][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30008.525391
+[2026.05.12-20.13.06:818][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.13.06:818][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30009.191406, Update Interval: 314.095886
+[2026.05.12-20.18.52:855][605]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30355.640625
+[2026.05.12-20.18.53:854][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.18.53:855][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30356.304688, Update Interval: 313.945740
+[2026.05.12-20.24.39:232][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30702.072266
+[2026.05.12-20.24.40:233][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.24.40:233][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30702.738281, Update Interval: 309.468658
+[2026.05.12-20.30.32:937][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31055.828125
+[2026.05.12-20.30.33:937][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.30.33:937][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31056.496094, Update Interval: 338.799408
+[2026.05.12-20.37.06:329][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31449.287109
+[2026.05.12-20.37.07:328][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.37.07:328][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31449.953125, Update Interval: 309.014557
+[2026.05.12-20.43.16:044][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31819.050781
+[2026.05.12-20.43.17:044][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.43.17:044][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31819.718750, Update Interval: 333.588074
+[2026.05.12-20.49.38:092][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32201.167969
+[2026.05.12-20.49.39:092][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.49.39:092][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32201.833984, Update Interval: 336.821808
+[2026.05.12-20.54.49:158][ 74]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-20.55.56:804][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32579.939453
+[2026.05.12-20.55.57:804][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-20.55.57:804][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32580.607422, Update Interval: 339.850464
+[2026.05.12-21.02.37:184][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32979.968750
+[2026.05.12-21.02.38:186][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.02.38:186][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32980.636719, Update Interval: 329.460724
+[2026.05.12-21.08.40:221][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33342.246094
+[2026.05.12-21.08.41:221][570]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.08.41:221][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33342.910156, Update Interval: 351.131927
+[2026.05.12-21.15.27:619][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33748.753906
+[2026.05.12-21.15.28:619][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.15.28:619][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33749.417969, Update Interval: 328.726471
+[2026.05.12-21.21.45:990][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34126.359375
+[2026.05.12-21.21.46:989][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.21.46:989][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34127.027344, Update Interval: 322.742401
+[2026.05.12-21.27.49:375][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34488.996094
+[2026.05.12-21.27.50:375][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.27.50:375][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34489.660156, Update Interval: 344.519775
+[2026.05.12-21.34.19:424][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34878.316406
+[2026.05.12-21.34.20:424][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.34.20:424][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34878.980469, Update Interval: 332.582794
+[2026.05.12-21.40.33:485][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35251.636719
+[2026.05.12-21.40.34:484][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.40.34:484][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35252.300781, Update Interval: 317.199615
+[2026.05.12-21.46.45:869][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35623.238281
+[2026.05.12-21.46.46:869][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.46.46:869][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35623.902344, Update Interval: 317.382721
+[2026.05.12-21.52.40:916][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35977.574219
+[2026.05.12-21.52.41:914][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.52.41:914][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35978.238281, Update Interval: 338.815887
+[2026.05.12-21.54.49:159][872]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-21.58.55:963][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36351.867188
+[2026.05.12-21.58.56:962][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-21.58.56:962][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36352.531250, Update Interval: 338.760956
+[2026.05.12-22.05.06:008][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36721.199219
+[2026.05.12-22.05.07:008][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.05.07:008][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36721.863281, Update Interval: 302.572723
+[2026.05.12-22.11.07:047][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37081.550781
+[2026.05.12-22.11.08:048][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.11.08:048][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37082.214844, Update Interval: 323.449188
+[2026.05.12-22.17.27:098][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37460.828125
+[2026.05.12-22.17.28:098][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.17.28:098][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37461.496094, Update Interval: 339.927368
+[2026.05.12-22.24.00:490][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37853.535156
+[2026.05.12-22.24.01:491][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.24.01:491][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37854.199219, Update Interval: 352.089600
+[2026.05.12-22.30.43:197][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38255.492188
+[2026.05.12-22.30.44:197][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.30.44:197][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38256.156250, Update Interval: 314.656219
+[2026.05.12-22.36.57:249][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38628.792969
+[2026.05.12-22.36.58:248][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.36.58:248][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38629.457031, Update Interval: 320.940582
+[2026.05.12-22.42.49:981][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38980.832031
+[2026.05.12-22.42.50:981][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.42.50:981][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38981.496094, Update Interval: 333.311554
+[2026.05.12-22.49.21:389][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39371.460938
+[2026.05.12-22.49.22:389][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.49.22:389][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39372.125000, Update Interval: 350.904877
+[2026.05.12-22.54.49:159][671]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-22.55.54:780][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39764.132812
+[2026.05.12-22.55.55:779][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-22.55.55:779][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39764.796875, Update Interval: 301.406281
+[2026.05.12-23.01.35:485][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40104.242188
+[2026.05.12-23.01.36:485][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.01.36:486][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40104.906250, Update Interval: 348.222290
+[2026.05.12-23.08.17:878][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40505.898438
+[2026.05.12-23.08.18:878][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.08.18:878][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40506.566406, Update Interval: 304.724274
+[2026.05.12-23.14.10:917][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40858.281250
+[2026.05.12-23.14.11:917][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.14.11:917][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40858.949219, Update Interval: 331.236908
+[2026.05.12-23.20.25:288][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41232.023438
+[2026.05.12-23.20.26:290][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.20.26:290][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41232.687500, Update Interval: 325.111847
+[2026.05.12-23.26.36:002][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41602.058594
+[2026.05.12-23.26.37:003][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.26.37:003][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41602.726562, Update Interval: 347.574097
+[2026.05.12-23.33.10:381][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41995.605469
+[2026.05.12-23.33.11:382][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.33.11:382][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41996.269531, Update Interval: 350.148621
+[2026.05.12-23.39.49:097][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42393.585938
+[2026.05.12-23.39.50:098][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.39.50:098][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42394.253906, Update Interval: 336.125977
+[2026.05.12-23.46.12:159][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42775.871094
+[2026.05.12-23.46.13:160][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.46.13:160][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42776.535156, Update Interval: 346.050598
+[2026.05.12-23.52.56:886][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43179.835938
+[2026.05.12-23.52.57:886][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.52.57:886][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43180.500000, Update Interval: 318.232361
+[2026.05.12-23.54.49:159][468]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-23.59.14:608][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43556.222656
+[2026.05.12-23.59.15:610][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-23.59.15:610][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43556.886719, Update Interval: 313.202301
+[2026.05.13-00.05.00:646][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43901.000000
+[2026.05.13-00.05.01:646][305]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.05.01:646][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43901.664062, Update Interval: 312.398438
+[2026.05.13-00.10.53:696][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44252.812500
+[2026.05.13-00.10.54:695][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.10.54:695][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44253.476562, Update Interval: 313.669250
+[2026.05.13-00.17.06:413][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44624.167969
+[2026.05.13-00.17.07:414][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.17.07:414][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44624.835938, Update Interval: 356.947540
+[2026.05.13-00.23.45:792][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45022.074219
+[2026.05.13-00.23.46:792][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.23.46:792][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45022.738281, Update Interval: 330.079651
+[2026.05.13-00.29.58:530][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45393.453125
+[2026.05.13-00.29.59:530][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.29.59:530][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45394.117188, Update Interval: 334.981537
+[2026.05.13-00.36.28:924][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45782.441406
+[2026.05.13-00.36.29:923][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.36.29:923][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45783.105469, Update Interval: 325.256500
+[2026.05.13-00.42.40:647][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46152.816406
+[2026.05.13-00.42.41:647][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.42.41:647][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46153.480469, Update Interval: 346.019470
+[2026.05.13-00.49.23:370][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46554.035156
+[2026.05.13-00.49.24:370][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.49.24:370][292]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46554.699219, Update Interval: 301.957458
+[2026.05.13-00.54.49:159][267]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-00.55.18:774][355]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46908.160156
+[2026.05.13-00.55.19:775][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-00.55.19:775][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46908.824219, Update Interval: 358.688934
+[2026.05.13-01.02.16:843][609]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47324.738281
+[2026.05.13-01.02.17:843][612]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.02.17:843][612]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47325.402344, Update Interval: 312.110962
+[2026.05.13-01.08.24:550][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47691.089844
+[2026.05.13-01.08.25:550][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.08.25:550][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47691.753906, Update Interval: 308.847931
+[2026.05.13-01.14.31:261][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48056.457031
+[2026.05.13-01.14.32:261][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.14.32:261][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48057.121094, Update Interval: 334.921112
+[2026.05.13-01.20.50:997][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48434.843750
+[2026.05.13-01.20.51:997][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.20.51:997][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48435.511719, Update Interval: 337.519470
+[2026.05.13-01.27.16:047][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48818.515625
+[2026.05.13-01.27.17:047][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.27.17:047][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48819.179688, Update Interval: 333.212677
+[2026.05.13-01.33.25:423][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49186.550781
+[2026.05.13-01.33.26:423][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.33.26:423][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49187.214844, Update Interval: 352.986847
+[2026.05.13-01.40.10:167][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49589.820312
+[2026.05.13-01.40.11:167][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.40.11:167][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49590.484375, Update Interval: 347.390961
+[2026.05.13-01.46.50:220][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49988.417969
+[2026.05.13-01.46.51:221][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.46.51:221][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49989.082031, Update Interval: 351.461548
+[2026.05.13-01.53.39:961][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50396.691406
+[2026.05.13-01.53.40:960][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-01.53.40:960][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50397.355469, Update Interval: 336.396973
+[2026.05.13-01.54.49:160][ 65]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-02.00.09:064][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50784.390625
+[2026.05.13-02.00.10:065][ 27]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.00.10:065][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50785.054688, Update Interval: 320.676910
+[2026.05.13-02.06.05:774][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51139.792969
+[2026.05.13-02.06.06:775][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.06.06:775][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51140.457031, Update Interval: 345.036163
+[2026.05.13-02.12.25:155][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51517.812500
+[2026.05.13-02.12.26:155][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.12.26:155][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51518.476562, Update Interval: 320.779449
+[2026.05.13-02.18.20:531][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51871.894531
+[2026.05.13-02.18.21:531][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.18.21:532][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51872.558594, Update Interval: 347.030243
+[2026.05.13-02.24.59:918][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52269.859375
+[2026.05.13-02.25.00:920][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.25.00:920][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52270.523438, Update Interval: 346.909393
+[2026.05.13-02.31.32:633][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52661.171875
+[2026.05.13-02.31.33:633][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.31.33:633][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52661.835938, Update Interval: 343.205048
+[2026.05.13-02.38.09:022][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53056.152344
+[2026.05.13-02.38.10:022][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.38.10:022][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53056.816406, Update Interval: 327.820068
+[2026.05.13-02.44.34:745][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53440.476562
+[2026.05.13-02.44.35:746][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.44.35:746][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53441.140625, Update Interval: 304.167603
+[2026.05.13-02.50.23:125][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53787.640625
+[2026.05.13-02.50.24:126][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.50.24:126][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53788.308594, Update Interval: 344.953766
+[2026.05.13-02.54.49:161][864]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-02.56.46:497][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54169.609375
+[2026.05.13-02.56.47:497][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-02.56.47:497][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54170.273438, Update Interval: 356.845001
+[2026.05.13-03.03.40:547][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54582.136719
+[2026.05.13-03.03.41:546][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.03.41:546][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54582.800781, Update Interval: 346.297791
+[2026.05.13-03.10.01:286][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54961.500000
+[2026.05.13-03.10.02:286][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.10.02:286][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54962.164062, Update Interval: 324.251221
+[2026.05.13-03.16.18:351][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55337.179688
+[2026.05.13-03.16.19:351][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.16.19:351][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55337.843750, Update Interval: 339.425629
+[2026.05.13-03.22.38:061][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55715.488281
+[2026.05.13-03.22.39:062][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.22.39:062][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55716.152344, Update Interval: 337.913147
+[2026.05.13-03.28.58:132][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56094.191406
+[2026.05.13-03.28.59:465][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.28.59:465][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56095.187500, Update Interval: 338.103577
+[2026.05.13-03.35.34:840][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56489.429688
+[2026.05.13-03.35.35:839][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.35.35:839][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56490.093750, Update Interval: 312.248291
+[2026.05.13-03.41.21:549][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56834.890625
+[2026.05.13-03.41.22:548][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.41.22:548][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56835.554688, Update Interval: 326.812958
+[2026.05.13-03.47.25:258][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57197.253906
+[2026.05.13-03.47.26:257][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.47.26:257][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57197.917969, Update Interval: 300.318604
+[2026.05.13-03.53.14:975][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57545.699219
+[2026.05.13-03.53.15:976][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.53.15:976][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57546.363281, Update Interval: 357.593933
+[2026.05.13-03.54.49:161][662]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-03.59.56:699][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57945.968750
+[2026.05.13-03.59.57:698][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-03.59.57:698][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57946.632812, Update Interval: 300.349731
+[2026.05.13-04.05.48:087][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58296.082031
+[2026.05.13-04.05.49:087][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.05.49:087][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58296.746094, Update Interval: 323.542603
+[2026.05.13-04.11.49:824][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58656.519531
+[2026.05.13-04.11.50:824][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.11.50:824][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58657.183594, Update Interval: 332.330078
+[2026.05.13-04.17.56:878][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59022.226562
+[2026.05.13-04.17.57:878][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.17.57:878][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59022.890625, Update Interval: 303.393036
+[2026.05.13-04.23.40:241][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59364.300781
+[2026.05.13-04.23.41:242][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.23.41:242][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59364.964844, Update Interval: 314.132507
+[2026.05.13-04.29.35:952][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59718.722656
+[2026.05.13-04.29.36:952][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.29.36:952][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59719.386719, Update Interval: 301.508850
+[2026.05.13-04.35.15:013][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60056.585938
+[2026.05.13-04.35.16:013][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.35.16:013][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60057.250000, Update Interval: 316.494629
+[2026.05.13-04.41.25:385][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60425.597656
+[2026.05.13-04.41.26:385][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.41.26:385][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60426.261719, Update Interval: 337.687927
+[2026.05.13-04.47.47:261][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60802.871094
+[2026.05.13-04.47.47:424][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.47.47:424][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60803.027344, Update Interval: 306.231262
+[2026.05.13-04.49.17:942][603]Cmd: TRANSACTION UNDO
+[2026.05.13-04.49.17:942][603]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-04.49.30:694][283]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.49.30:711][284]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.49.31:811][400]Cmd: TRANSACTION UNDO
+[2026.05.13-04.49.31:811][400]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-04.50.16:550][805]Cmd: TRANSACTION UNDO
+[2026.05.13-04.50.16:550][805]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.13-04.50.37:950][194]Cmd: EDIT COPY
+[2026.05.13-04.50.38:161][194]Cmd: EDIT COPY
+[2026.05.13-04.50.38:369][194]Cmd: EDIT COPY
+[2026.05.13-04.50.38:572][194]Cmd: EDIT COPY
+[2026.05.13-04.50.38:774][194]Cmd: EDIT COPY
+[2026.05.13-04.50.49:432][863]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.05.13-04.50.49:442][863]LogContentBrowser: Creating deferred item: NewWorld
+[2026.05.13-04.50.49:460][864]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.05.13-04.51.02:577][804]LogContentBrowser: Attempting asset rename: NewWorld -> LV_Mainenvironment
+[2026.05.13-04.51.02:580][804]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Mainenvironment
+[2026.05.13-04.51.02:583][804]LogContentBrowser: End creating deferred item NewWorld
+[2026.05.13-04.51.04:153][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.05.13-04.51.05:431][907]LogSlate: Window 'Save Content' being destroyed
+[2026.05.13-04.51.05:440][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-04.51.05:490][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.05.13-04.51.06:571][907]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2026.05.13-04.51.06:571][907]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/Demo_Environment817E2B594218C85850BF5991773E7FC7.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2026.05.13-04.51.06:597][907]LogFileHelpers: All files are already saved.
+[2026.05.13-04.51.06:597][907]LogFileHelpers: Saving map 'Demo_Environment' took 1.132
+[2026.05.13-04.51.06:609][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.05.13-04.51.06:617][907]LogSavePackage: Moving output files for package: /Game/LV_Mainenvironment
+[2026.05.13-04.51.06:617][907]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_MainenvironmentB178D6554C3185EAE5962BBB69BED80A.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Mainenvironment.umap'
+[2026.05.13-04.51.06:620][907]LogFileHelpers: Saving map 'LV_Mainenvironment' took 0.021
+[2026.05.13-04.51.06:651][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.21 sec (total: 7.38 sec)
+[2026.05.13-04.51.06:651][907]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LV_Mainenvironment.LV_Mainenvironment
+[2026.05.13-04.51.06:653][907]Cmd: MAP LOAD FILE="../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Mainenvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.13-04.51.06:742][907]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.51.06:744][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.51.06:745][907]LogWorld: UWorld::CleanupWorld for Nightime_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.51.06:745][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.51.06:745][907]LogWorld: UWorld::CleanupWorld for Daytime_Lighting, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.51.06:745][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.51.06:783][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.13-04.51.06:818][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.05.13-04.51.06:836][907]LogWorld: UWorld::CleanupWorld for LV_Mainenvironment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.51.06:836][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.51.06:846][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.13-04.51.06:853][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.13-04.51.06:858][907]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-04.51.06:860][907]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Mainenvironment'.
+[2026.05.13-04.51.06:860][907]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Mainenvironment
+[2026.05.13-04.51.06:879][907]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.13-04.51.06:887][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-04.51.06:891][907]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.13-04.51.06:891][907]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.029ms to complete.
+[2026.05.13-04.51.06:939][907]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.13-04.51.06:941][907]LogContentValidation: Enabled validators:
+[2026.05.13-04.51.06:941][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-04.51.06:941][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-04.51.06:941][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-04.51.06:941][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-04.51.06:941][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-04.51.06:941][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-04.51.06:941][907]AssetCheck: /Game/LV_Mainenvironment Validating asset
+[2026.05.13-04.51.07:025][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-04.51.07:039][907]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.13-04.51.07:044][908]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.13-04.51.15:130][848]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2026.05.13-04.51.15:278][860]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2026.05.13-04.51.15:435][873]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2026.05.13-04.51.15:612][891]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2026.05.13-04.51.15:760][904]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2026.05.13-04.51.18:197][192]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.51.18:200][192]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.51.24:934][978]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.51.24:938][978]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.51.29:477][518]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-04.51.31:268][666]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: LightSourceAngle - LightSourceAngle
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: LightSourceSoftAngle - LightSourceSoftAngle
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: bUseTemperature - bUseTemperature
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: Temperature - Temperature
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.51.44:989][279]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bEnableLightShaftOcclusion - bEnableLightShaftOcclusion
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: OcclusionMaskDarkness - OcclusionMaskDarkness
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: OcclusionDepthRange - OcclusionDepthRange
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bEnableLightShaftBloom - bEnableLightShaftBloom
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: BloomScale - BloomScale
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: BloomThreshold - BloomThreshold
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: BloomMaxBrightness - BloomMaxBrightness
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: BloomTint - BloomTint
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceMovableLight - DynamicShadowDistanceMovableLight
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceStationaryLight - DynamicShadowDistanceStationaryLight
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: DynamicShadowCascades - DynamicShadowCascades
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: CascadeDistributionExponent - CascadeDistributionExponent
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: CascadeTransitionFraction - CascadeTransitionFraction
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: ShadowDistanceFadeoutFraction - ShadowDistanceFadeoutFraction
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: DistanceFieldShadowDistance - DistanceFieldShadowDistance
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bUseRayTracedDistanceFieldShadows - bUseRayTracedDistanceFieldShadows
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: ShadowSourceAngleFactor - ShadowSourceAngleFactor
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bAtmosphereSunLight - bAtmosphereSunLight
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bCastShadowsOnClouds - bCastShadowsOnClouds
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bCastShadowsOnAtmosphere - bCastShadowsOnAtmosphere
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: bCastCloudShadows - bCastCloudShadows
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: CloudScatteredLuminanceScale - CloudScatteredLuminanceScale
+[2026.05.13-04.51.44:990][279]LogEditorEnvironmentLightingViewer: LightFunctionMaterial - LightFunctionMaterial
+[2026.05.13-04.51.44:991][279]LogEditorEnvironmentLightingViewer: LightFunctionScale - LightFunctionScale
+[2026.05.13-04.51.44:991][279]LogEditorEnvironmentLightingViewer: LightFunctionFadeDistance - LightFunctionFadeDistance
+[2026.05.13-04.51.44:991][279]LogEditorEnvironmentLightingViewer: DisabledBrightness - DisabledBrightness
+[2026.05.13-04.51.44:993][279]LogEditorEnvironmentLightingViewer: MaxDrawDistance - MaxDrawDistance
+[2026.05.13-04.51.44:993][279]LogEditorEnvironmentLightingViewer: MaxDistanceFadeRange - MaxDistanceFadeRange
+[2026.05.13-04.51.44:993][279]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.51.44:994][279]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.51.44:994][279]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.51.44:994][279]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.51.44:994][279]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.51.44:994][279]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.51.44:994][279]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.51.54:818][442]LogEditorEnvironmentLightingViewer: LightSourceAngle - LightSourceAngle
+[2026.05.13-04.51.54:818][442]LogEditorEnvironmentLightingViewer: LightSourceSoftAngle - LightSourceSoftAngle
+[2026.05.13-04.51.54:818][442]LogEditorEnvironmentLightingViewer: bUseTemperature - bUseTemperature
+[2026.05.13-04.51.54:818][442]LogEditorEnvironmentLightingViewer: Temperature - Temperature
+[2026.05.13-04.51.54:818][442]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowCascadeBiasDistribution - ShadowCascadeBiasDistribution
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ForwardShadingPriority - ForwardShadingPriority
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastModulatedShadows - bCastModulatedShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ModulatedShadowColor - ModulatedShadowColor
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowAmount - ShadowAmount
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: SpecularScale - SpecularScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: DiffuseScale - DiffuseScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowResolutionScale - ShadowResolutionScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowBias - ShadowBias
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowSlopeBias - ShadowSlopeBias
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowSharpen - ShadowSharpen
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ContactShadowLength - ContactShadowLength
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ContactShadowLengthInWS - ContactShadowLengthInWS
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ContactShadowCastingIntensity - ContactShadowCastingIntensity
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ContactShadowNonCastingIntensity - ContactShadowNonCastingIntensity
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CastTranslucentShadows - CastTranslucentShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastShadowsFromCinematicObjectsOnly - bCastShadowsFromCinematicObjectsOnly
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bForceCachedShadowsForMovablePrimitives - bForceCachedShadowsForMovablePrimitives
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bAllowMegaLights - bAllowMegaLights
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: MegaLightsShadowMethod - MegaLightsShadowMethod
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: LightingChannels - LightingChannels
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ViewLightingChannels - ViewLightingChannels
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CastStaticShadows - CastStaticShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CastDynamicShadows - CastDynamicShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bAffectTranslucentLighting - bAffectTranslucentLighting
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bTransmission - bTransmission
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastVolumetricShadow - bCastVolumetricShadow
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastDeepShadow - bCastDeepShadow
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CastRaytracedShadow - CastRaytracedShadow
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bAffectReflection - bAffectReflection
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bAffectGlobalIllumination - bAffectGlobalIllumination
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: DeepShadowLayerDistribution - DeepShadowLayerDistribution
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bEnableLightShaftOcclusion - bEnableLightShaftOcclusion
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: OcclusionMaskDarkness - OcclusionMaskDarkness
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: OcclusionDepthRange - OcclusionDepthRange
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bEnableLightShaftBloom - bEnableLightShaftBloom
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: BloomScale - BloomScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: BloomThreshold - BloomThreshold
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: BloomMaxBrightness - BloomMaxBrightness
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: BloomTint - BloomTint
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: LightShaftOverrideDirection - LightShaftOverrideDirection
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceMovableLight - DynamicShadowDistanceMovableLight
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceStationaryLight - DynamicShadowDistanceStationaryLight
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: DynamicShadowCascades - DynamicShadowCascades
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CascadeDistributionExponent - CascadeDistributionExponent
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CascadeTransitionFraction - CascadeTransitionFraction
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowDistanceFadeoutFraction - ShadowDistanceFadeoutFraction
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bUseInsetShadowsForMovableObjects - bUseInsetShadowsForMovableObjects
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: FarShadowCascadeCount - FarShadowCascadeCount
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: FarShadowDistance - FarShadowDistance
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: DistanceFieldShadowDistance - DistanceFieldShadowDistance
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bUseRayTracedDistanceFieldShadows - bUseRayTracedDistanceFieldShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: TraceDistance - TraceDistance
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: RayStartOffsetDepthScale - RayStartOffsetDepthScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: ShadowSourceAngleFactor - ShadowSourceAngleFactor
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bAtmosphereSunLight - bAtmosphereSunLight
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastShadowsOnClouds - bCastShadowsOnClouds
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastShadowsOnAtmosphere - bCastShadowsOnAtmosphere
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bCastCloudShadows - bCastCloudShadows
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudScatteredLuminanceScale - CloudScatteredLuminanceScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: AtmosphereSunLightIndex - AtmosphereSunLightIndex
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: AtmosphereSunDiskColorScale - AtmosphereSunDiskColorScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: bPerPixelAtmosphereTransmittance - bPerPixelAtmosphereTransmittance
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowStrength - CloudShadowStrength
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowOnAtmosphereStrength - CloudShadowOnAtmosphereStrength
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowOnSurfaceStrength - CloudShadowOnSurfaceStrength
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowDepthBias - CloudShadowDepthBias
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowExtent - CloudShadowExtent
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowMapResolutionScale - CloudShadowMapResolutionScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: CloudShadowRaySampleCountScale - CloudShadowRaySampleCountScale
+[2026.05.13-04.51.54:819][442]LogEditorEnvironmentLightingViewer: LightFunctionMaterial - LightFunctionMaterial
+[2026.05.13-04.51.54:821][442]LogEditorEnvironmentLightingViewer: LightFunctionScale - LightFunctionScale
+[2026.05.13-04.51.54:821][442]LogEditorEnvironmentLightingViewer: LightFunctionFadeDistance - LightFunctionFadeDistance
+[2026.05.13-04.51.54:821][442]LogEditorEnvironmentLightingViewer: DisabledBrightness - DisabledBrightness
+[2026.05.13-04.51.54:822][442]LogEditorEnvironmentLightingViewer: MaxDrawDistance - MaxDrawDistance
+[2026.05.13-04.51.54:822][442]LogEditorEnvironmentLightingViewer: MaxDistanceFadeRange - MaxDistanceFadeRange
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: CastStaticShadows - CastStaticShadows
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: CastDynamicShadows - CastDynamicShadows
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bAffectTranslucentLighting - bAffectTranslucentLighting
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bTransmission - bTransmission
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bCastVolumetricShadow - bCastVolumetricShadow
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bCastDeepShadow - bCastDeepShadow
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: CastRaytracedShadow - CastRaytracedShadow
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bAffectReflection - bAffectReflection
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: bAffectGlobalIllumination - bAffectGlobalIllumination
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: DeepShadowLayerDistribution - DeepShadowLayerDistribution
+[2026.05.13-04.51.54:824][442]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: LightSourceAngle - LightSourceAngle
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: LightSourceSoftAngle - LightSourceSoftAngle
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: bUseTemperature - bUseTemperature
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: Temperature - Temperature
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: bEnableLightShaftOcclusion - bEnableLightShaftOcclusion
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: OcclusionMaskDarkness - OcclusionMaskDarkness
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: OcclusionDepthRange - OcclusionDepthRange
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: bEnableLightShaftBloom - bEnableLightShaftBloom
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: BloomScale - BloomScale
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: BloomThreshold - BloomThreshold
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: BloomMaxBrightness - BloomMaxBrightness
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: BloomTint - BloomTint
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceMovableLight - DynamicShadowDistanceMovableLight
+[2026.05.13-04.51.57:044][700]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceStationaryLight - DynamicShadowDistanceStationaryLight
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: DynamicShadowCascades - DynamicShadowCascades
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: CascadeDistributionExponent - CascadeDistributionExponent
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: CascadeTransitionFraction - CascadeTransitionFraction
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: ShadowDistanceFadeoutFraction - ShadowDistanceFadeoutFraction
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: DistanceFieldShadowDistance - DistanceFieldShadowDistance
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: bUseRayTracedDistanceFieldShadows - bUseRayTracedDistanceFieldShadows
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: ShadowSourceAngleFactor - ShadowSourceAngleFactor
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: bAtmosphereSunLight - bAtmosphereSunLight
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: bCastShadowsOnClouds - bCastShadowsOnClouds
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: bCastShadowsOnAtmosphere - bCastShadowsOnAtmosphere
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: bCastCloudShadows - bCastCloudShadows
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: CloudScatteredLuminanceScale - CloudScatteredLuminanceScale
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: LightFunctionMaterial - LightFunctionMaterial
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: LightFunctionScale - LightFunctionScale
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: LightFunctionFadeDistance - LightFunctionFadeDistance
+[2026.05.13-04.51.57:046][700]LogEditorEnvironmentLightingViewer: DisabledBrightness - DisabledBrightness
+[2026.05.13-04.51.57:047][700]LogEditorEnvironmentLightingViewer: MaxDrawDistance - MaxDrawDistance
+[2026.05.13-04.51.57:047][700]LogEditorEnvironmentLightingViewer: MaxDistanceFadeRange - MaxDistanceFadeRange
+[2026.05.13-04.51.57:049][700]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.51.57:049][700]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.51.57:049][700]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.51.57:049][700]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.51.57:049][700]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.51.57:049][700]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.51.57:050][700]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.51.59:787][ 15]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.51.59:791][ 15]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.52.03:641][475]Cmd: TRANSACTION UNDO
+[2026.05.13-04.52.03:641][475]LogEditorTransaction: Undo Creating New Landscape
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.03:677][475]LogActorComponent: RegisterComponentWithWorld: (/Game/LV_Mainenvironment.LV_Mainenvironment:PersistentLevel.Landscape_0.RootComponent0) Trying to register component with IsValid() == false. Aborting.
+[2026.05.13-04.52.04:661][556]Cmd: TRANSACTION UNDO
+[2026.05.13-04.52.04:661][556]LogEditorTransaction: Undo Add Actor
+[2026.05.13-04.52.06:324][750]LogObjectTools: Deleting 1 worlds: /Game/LV_Mainenvironment.LV_Mainenvironment
+[2026.05.13-04.52.06:324][750]LogObjectTools: Currently 4 active worlds: /Game/LV_Mainenvironment.LV_Mainenvironment, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.05.13-04.52.07:626][750]LogSlate: Window 'Unable to delete level' being destroyed
+[2026.05.13-04.52.07:632][750]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2026.05.13-04.52.09:647][992]LogObjectTools: Deleting 1 worlds: /Game/LV_Mainenvironment.LV_Mainenvironment
+[2026.05.13-04.52.09:647][992]LogObjectTools: Currently 4 active worlds: /Game/LV_Mainenvironment.LV_Mainenvironment, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.05.13-04.52.12:051][992]LogSlate: Window 'Unable to delete level' being destroyed
+[2026.05.13-04.52.12:057][992]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2026.05.13-04.52.14:480][261]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2026.05.13-04.52.14:484][261]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2026.05.13-04.52.14:490][262]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2026.05.13-04.52.15:770][416]LogContentBrowser: Attempting asset rename: NewLevelSequence -> NewLevelSequence
+[2026.05.13-04.52.15:771][416]LogContentBrowser: End creating deferred item NewLevelSequence
+[2026.05.13-04.52.16:797][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.13-04.52.17:869][535]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.13-04.52.17:883][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.13-04.52.17:889][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.13-04.52.17:896][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2026.05.13-04.52.20:823][871]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.05.13-04.52.20:826][871]LogContentBrowser: Creating deferred item: NewWorld
+[2026.05.13-04.52.20:831][872]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.05.13-04.52.29:975][969]LogContentBrowser: Attempting asset rename: NewWorld -> LV_Environment
+[2026.05.13-04.52.29:975][969]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Environment
+[2026.05.13-04.52.29:977][969]LogContentBrowser: End creating deferred item NewWorld
+[2026.05.13-04.52.31:236][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.13-04.52.32:450][116]LogSlate: Window 'Save Content' being destroyed
+[2026.05.13-04.52.32:464][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-04.52.32:502][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.05.13-04.52.32:509][116]LogSavePackage: Moving output files for package: /Game/LV_Environment
+[2026.05.13-04.52.32:509][116]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_EnvironmentACB2D7C5430DFD04163BC79A7D3C10E9.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap'
+[2026.05.13-04.52.32:511][116]LogFileHelpers: Saving map 'LV_Environment' took 0.019
+[2026.05.13-04.52.32:529][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-04.52.32:535][116]LogSavePackage: Moving output files for package: /Game/LV_Mainenvironment
+[2026.05.13-04.52.32:535][116]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_Mainenvironment0C881C6148633265E936D6924549FF01.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Mainenvironment.umap'
+[2026.05.13-04.52.32:540][116]LogFileHelpers: Saving map 'LV_Mainenvironment' took 0.028
+[2026.05.13-04.52.32:573][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.362 ms (total: 7.49 sec)
+[2026.05.13-04.52.32:573][116]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LV_Environment.LV_Environment
+[2026.05.13-04.52.32:575][116]Cmd: MAP LOAD FILE="../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.13-04.52.32:609][116]LogWorld: UWorld::CleanupWorld for LV_Mainenvironment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.52.32:612][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.52.32:621][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.13-04.52.32:622][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.13-04.52.32:625][116]LogWorld: UWorld::CleanupWorld for LV_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.52.32:625][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.52.32:632][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.13-04.52.32:638][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.13-04.52.32:640][116]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-04.52.32:640][116]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_Environment'.
+[2026.05.13-04.52.32:640][116]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Environment
+[2026.05.13-04.52.32:656][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.13-04.52.32:664][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.13-04.52.32:668][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.13-04.52.32:668][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.031ms to complete.
+[2026.05.13-04.52.32:705][116]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.13-04.52.32:705][116]LogContentValidation: Enabled validators:
+[2026.05.13-04.52.32:705][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-04.52.32:705][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-04.52.32:705][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-04.52.32:705][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-04.52.32:705][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-04.52.32:705][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-04.52.32:707][116]AssetCheck: /Game/LV_Environment Validating asset
+[2026.05.13-04.52.32:720][116]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.13-04.52.32:723][117]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.13-04.52.36:969][612]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2026.05.13-04.52.45:041][575]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2026.05.13-04.52.46:172][707]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2026.05.13-04.52.47:099][812]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2026.05.13-04.52.47:650][874]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: LightSourceAngle - LightSourceAngle
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: LightSourceSoftAngle - LightSourceSoftAngle
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bUseTemperature - bUseTemperature
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: Temperature - Temperature
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowCascadeBiasDistribution - ShadowCascadeBiasDistribution
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ForwardShadingPriority - ForwardShadingPriority
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bCastModulatedShadows - bCastModulatedShadows
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ModulatedShadowColor - ModulatedShadowColor
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowAmount - ShadowAmount
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: SpecularScale - SpecularScale
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: DiffuseScale - DiffuseScale
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowResolutionScale - ShadowResolutionScale
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowBias - ShadowBias
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowSlopeBias - ShadowSlopeBias
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowSharpen - ShadowSharpen
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ContactShadowLength - ContactShadowLength
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ContactShadowLengthInWS - ContactShadowLengthInWS
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ContactShadowCastingIntensity - ContactShadowCastingIntensity
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ContactShadowNonCastingIntensity - ContactShadowNonCastingIntensity
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CastTranslucentShadows - CastTranslucentShadows
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bCastShadowsFromCinematicObjectsOnly - bCastShadowsFromCinematicObjectsOnly
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bForceCachedShadowsForMovablePrimitives - bForceCachedShadowsForMovablePrimitives
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bAllowMegaLights - bAllowMegaLights
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: MegaLightsShadowMethod - MegaLightsShadowMethod
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: LightingChannels - LightingChannels
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ViewLightingChannels - ViewLightingChannels
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CastStaticShadows - CastStaticShadows
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CastDynamicShadows - CastDynamicShadows
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bAffectTranslucentLighting - bAffectTranslucentLighting
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bTransmission - bTransmission
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bCastVolumetricShadow - bCastVolumetricShadow
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bCastDeepShadow - bCastDeepShadow
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CastRaytracedShadow - CastRaytracedShadow
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bAffectReflection - bAffectReflection
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bAffectGlobalIllumination - bAffectGlobalIllumination
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: DeepShadowLayerDistribution - DeepShadowLayerDistribution
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bEnableLightShaftOcclusion - bEnableLightShaftOcclusion
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: OcclusionMaskDarkness - OcclusionMaskDarkness
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: OcclusionDepthRange - OcclusionDepthRange
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bEnableLightShaftBloom - bEnableLightShaftBloom
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: BloomScale - BloomScale
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: BloomThreshold - BloomThreshold
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: BloomMaxBrightness - BloomMaxBrightness
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: BloomTint - BloomTint
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: LightShaftOverrideDirection - LightShaftOverrideDirection
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceMovableLight - DynamicShadowDistanceMovableLight
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceStationaryLight - DynamicShadowDistanceStationaryLight
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: DynamicShadowCascades - DynamicShadowCascades
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CascadeDistributionExponent - CascadeDistributionExponent
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: CascadeTransitionFraction - CascadeTransitionFraction
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: ShadowDistanceFadeoutFraction - ShadowDistanceFadeoutFraction
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bUseInsetShadowsForMovableObjects - bUseInsetShadowsForMovableObjects
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: FarShadowCascadeCount - FarShadowCascadeCount
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: FarShadowDistance - FarShadowDistance
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: DistanceFieldShadowDistance - DistanceFieldShadowDistance
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: bUseRayTracedDistanceFieldShadows - bUseRayTracedDistanceFieldShadows
+[2026.05.13-04.52.53:822][609]LogEditorEnvironmentLightingViewer: TraceDistance - TraceDistance
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: RayStartOffsetDepthScale - RayStartOffsetDepthScale
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: ShadowSourceAngleFactor - ShadowSourceAngleFactor
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: bAtmosphereSunLight - bAtmosphereSunLight
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: bCastShadowsOnClouds - bCastShadowsOnClouds
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: bCastShadowsOnAtmosphere - bCastShadowsOnAtmosphere
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: bCastCloudShadows - bCastCloudShadows
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudScatteredLuminanceScale - CloudScatteredLuminanceScale
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: AtmosphereSunLightIndex - AtmosphereSunLightIndex
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: AtmosphereSunDiskColorScale - AtmosphereSunDiskColorScale
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: bPerPixelAtmosphereTransmittance - bPerPixelAtmosphereTransmittance
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowStrength - CloudShadowStrength
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowOnAtmosphereStrength - CloudShadowOnAtmosphereStrength
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowOnSurfaceStrength - CloudShadowOnSurfaceStrength
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowDepthBias - CloudShadowDepthBias
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowExtent - CloudShadowExtent
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowMapResolutionScale - CloudShadowMapResolutionScale
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: CloudShadowRaySampleCountScale - CloudShadowRaySampleCountScale
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: LightFunctionMaterial - LightFunctionMaterial
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: LightFunctionScale - LightFunctionScale
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: LightFunctionFadeDistance - LightFunctionFadeDistance
+[2026.05.13-04.52.53:824][609]LogEditorEnvironmentLightingViewer: DisabledBrightness - DisabledBrightness
+[2026.05.13-04.52.53:825][609]LogEditorEnvironmentLightingViewer: MaxDrawDistance - MaxDrawDistance
+[2026.05.13-04.52.53:825][609]LogEditorEnvironmentLightingViewer: MaxDistanceFadeRange - MaxDistanceFadeRange
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: CastStaticShadows - CastStaticShadows
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: CastDynamicShadows - CastDynamicShadows
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: bAffectTranslucentLighting - bAffectTranslucentLighting
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: bTransmission - bTransmission
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: bCastVolumetricShadow - bCastVolumetricShadow
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: bCastDeepShadow - bCastDeepShadow
+[2026.05.13-04.52.53:827][609]LogEditorEnvironmentLightingViewer: CastRaytracedShadow - CastRaytracedShadow
+[2026.05.13-04.52.53:828][609]LogEditorEnvironmentLightingViewer: bAffectReflection - bAffectReflection
+[2026.05.13-04.52.53:828][609]LogEditorEnvironmentLightingViewer: bAffectGlobalIllumination - bAffectGlobalIllumination
+[2026.05.13-04.52.53:828][609]LogEditorEnvironmentLightingViewer: DeepShadowLayerDistribution - DeepShadowLayerDistribution
+[2026.05.13-04.52.53:828][609]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2026.05.13-04.53.08:674][357]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.53.08:762][361]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.53.10:960][508]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.53.25:565][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61135.253906
+[2026.05.13-04.53.25:707][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-04.53.25:707][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61135.378906, Update Interval: 311.136810
+[2026.05.13-04.53.32:379][ 74]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.53.32:382][ 74]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.05.13-04.54.00:397][432]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-04.54.00:399][432]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_Mainenvironment
+[2026.05.13-04.54.00:400][432]LogObjectTools: Deleting 1 worlds: /Game/LV_Mainenvironment.LV_Mainenvironment
+[2026.05.13-04.54.00:400][432]LogObjectTools: Currently 4 active worlds: /Game/LV_Environment.LV_Environment, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.05.13-04.54.00:409][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.13-04.54.01:655][432]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.13-04.54.01:659][432]LogWorld: UWorld::CleanupWorld for LV_Mainenvironment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.54.01:659][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.54.01:674][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.13-04.54.01:679][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.13-04.54.01:685][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2026.05.13-04.54.02:622][543]LogObjectTools: Deleting 1 worlds: /Game/LV_Environment.LV_Environment
+[2026.05.13-04.54.02:622][543]LogObjectTools: Currently 4 active worlds: /Game/LV_Environment.LV_Environment, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.05.13-04.54.03:685][543]LogSlate: Window 'Unable to delete level' being destroyed
+[2026.05.13-04.54.03:691][543]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2026.05.13-04.54.06:760][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-04.54.06:806][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.13-04.54.06:812][897]LogSavePackage: Moving output files for package: /Game/LV_Environment
+[2026.05.13-04.54.06:814][897]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/LV_Environment3972B7784BF94178796D14965D41913B.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap'
+[2026.05.13-04.54.06:817][897]LogFileHelpers: Saving map 'LV_Environment' took 0.031
+[2026.05.13-04.54.06:824][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.910 ms (total: 7.56 sec)
+[2026.05.13-04.54.06:849][897]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-04.54.06:849][897]LogContentValidation: Enabled validators:
+[2026.05.13-04.54.06:849][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-04.54.06:849][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-04.54.06:849][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-04.54.06:849][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-04.54.06:849][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-04.54.06:849][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-04.54.06:849][897]AssetCheck: /Game/LV_Environment Validating asset
+[2026.05.13-04.54.09:251][176]LogObjectTools: Deleting 1 worlds: /Game/LV_Environment.LV_Environment
+[2026.05.13-04.54.09:251][176]LogObjectTools: Currently 4 active worlds: /Game/LV_Environment.LV_Environment, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.05.13-04.54.10:456][176]LogSlate: Window 'Unable to delete level' being destroyed
+[2026.05.13-04.54.10:461][176]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2026.05.13-04.54.14:144][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.13-04.54.14:146][612]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-04.54.14:466][612]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Environment
+[2026.05.13-04.54.14:560][612]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2026.05.13-04.54.14:560][612]Cmd: MAP LOAD FILE="../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.13-04.54.14:600][612]LogWorld: UWorld::CleanupWorld for LV_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.54.14:600][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.54.14:651][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.13-04.54.14:652][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.13-04.54.14:659][612]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2026.05.13-04.54.14:668][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.13-04.54.14:718][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.13-04.54.14:728][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-04.54.15:034][612]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Environment'.
+[2026.05.13-04.54.15:034][612]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo_Environment
+[2026.05.13-04.54.15:184][612]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Daytime_Lighting) is flushing async loading
+[2026.05.13-04.54.15:246][612]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Downtown_West/Maps/Sub-Levels/Nightime_Lighting) is flushing async loading
+[2026.05.13-04.54.15:762][612]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.13-04.54.15:817][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.13-04.54.15:821][612]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.13-04.54.15:823][612]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2026.05.13-04.54.15:986][612]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 2304
+[2026.05.13-04.54.16:634][616]LogRenderer: Using fallback RTPSO
+[2026.05.13-04.54.49:162][575]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-04.55.50:374][260]Cmd: EDIT COPY
+[2026.05.13-04.55.50:584][260]Cmd: EDIT COPY
+[2026.05.13-04.55.50:791][260]Cmd: EDIT COPY
+[2026.05.13-04.55.50:997][260]Cmd: EDIT COPY
+[2026.05.13-04.55.51:199][260]Cmd: EDIT COPY
+[2026.05.13-04.55.51:400][260]Cmd: EDIT COPY
+[2026.05.13-04.56.45:223][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.05.13-04.56.51:404][622]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.13-04.56.51:670][622]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Downtown_West/Textures/Sky/T_Water_01_N.T_Water_01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Downtown_West/Textures/Sky/T_Sky_Non_HDRI.T_Sky_Non_HDRI
+	Asset Type: Texture2D
+[2026.05.13-04.56.51:883][622]LogMaterial: Warning: [AssetLog] C:\unreal projects\Private\VirtualProduction\VirtualProduction\Content\Downtown_West\Materials\Sky\M_Image_Sky.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.05.13-04.56.51:885][622]LogMaterial: Warning: [AssetLog] C:\unreal projects\Private\VirtualProduction\VirtualProduction\Content\Downtown_West\Materials\Sky\M_Image_Sky.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.05.13-04.56.51:886][622]LogMaterial: Warning: [AssetLog] C:\unreal projects\Private\VirtualProduction\VirtualProduction\Content\Downtown_West\Materials\Sky\M_Image_Sky.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.05.13-04.56.51:888][622]LogMaterial: Warning: [AssetLog] C:\unreal projects\Private\VirtualProduction\VirtualProduction\Content\Downtown_West\Materials\Sky\M_Image_Sky.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.05.13-04.56.52:005][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.13-04.56.52:013][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.13-04.56.52:020][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.05.13-04.56.52:079][622]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.13-04.56.57:645][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.13-04.56.58:734][ 24]LogSlate: Window 'Save Content' being destroyed
+[2026.05.13-04.56.58:757][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-04.56.58:779][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Downtown_West/Materials/Sky/M_Image_Sky] ([1] browsable assets)...
+[2026.05.13-04.56.58:812][ 24]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Downtown_West/Materials/Sky/M_Image_Sky.M_Image_Sky]
+[2026.05.13-04.56.58:812][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Downtown_West/Materials/Sky/M_Image_Sky]
+[2026.05.13-04.56.58:819][ 24]LogSavePackage: Moving output files for package: /Game/Downtown_West/Materials/Sky/M_Image_Sky
+[2026.05.13-04.56.58:819][ 24]LogSavePackage: Moving '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/M_Image_Sky43E3E7994A5466D4BC9297863776277B.tmp' to '../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Materials/Sky/M_Image_Sky.uasset'
+[2026.05.13-04.56.58:827][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.008 ms (total: 7.63 sec)
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: Enabled validators:
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-04.56.58:849][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-04.56.58:849][ 24]AssetCheck: /Game/Downtown_West/Materials/Sky/M_Image_Sky Validating asset
+[2026.05.13-04.56.58:872][ 24]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../unreal projects/Private/VirtualProduction/VirtualProduction/Saved/SourceControl/UncontrolledChangelists.json

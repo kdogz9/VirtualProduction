@@ -91,7 +91,12 @@
 				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Materials/Wind_Function/MF_Wind_Default.uasset",
 				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Materials/M_Foliage_Master.uasset",
 				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Materials/M_Foliage_Tree.uasset",
-				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap"
+				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Maps/Demo_Environment.umap",
+				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Mainenvironment.umap",
+				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/LV_Environment.umap",
+				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Textures/Sky/T_Sky_Non_HDRI.uasset",
+				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Textures/Sky/T_Water_01_N.uasset",
+				"C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Downtown_West/Materials/Sky/M_Image_Sky.uasset"
 			]
 		}
 	]
