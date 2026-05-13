@@ -2275,3 +2275,46 @@ FPackageName: Skipped package /Game/Downtown_West/Textures/Sky/T_Water_01_N has 
 [2026.05.13-06.28.41:765][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2026.05.13-06.28.41:765][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/unreal projects/Private/VirtualProduction/VirtualProduction/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2026.05.13-06.28.41:765][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/unreal projects/Private/VirtualProduction/VirtualProduction/Content/Developers/dylan/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.13-06.32.02:695][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4995.807617
+[2026.05.13-06.32.02:820][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.32.02:820][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4995.923340, Update Interval: 301.756042
+[2026.05.13-06.32.39:060][274]LogFab: Display: Add listing to project - 6818b919-b48b-46e6-a9fa-3f7efbef680c
+[2026.05.13-06.32.39:060][274]LogFab: Display: Listing type - unreal-engine
+[2026.05.13-06.32.39:060][274]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/PostApoc5d76f70ec962V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/PostApoc5d76f70ec962V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/PostApoc5d76f70ec962V1/CloudDir,https://egs-cloudfront-chunks.epicgamescdn.com/Builds/Rocket/Automated/PostApoc5d76f70ec962V1/CloudDir
+[2026.05.13-06.37.40:523][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5333.553223
+[2026.05.13-06.37.40:665][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.37.40:665][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5333.685547, Update Interval: 307.685181
+[2026.05.13-06.43.30:128][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5683.092773
+[2026.05.13-06.43.30:253][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.43.30:253][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5683.209473, Update Interval: 355.629150
+[2026.05.13-06.50.18:599][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6091.490723
+[2026.05.13-06.50.18:749][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.50.18:749][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6091.632812, Update Interval: 350.417786
+[2026.05.13-06.56.40:779][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6473.603516
+[2026.05.13-06.56.40:904][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-06.56.40:904][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6473.720215, Update Interval: 322.310242
+[2026.05.13-07.02.40:846][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6833.669922
+[2026.05.13-07.02.40:988][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.02.40:988][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6833.803711, Update Interval: 319.219330
+[2026.05.13-07.08.42:112][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7194.898926
+[2026.05.13-07.08.42:245][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.08.42:245][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7195.024902, Update Interval: 327.957397
+[2026.05.13-07.10.44:416][459]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.13-07.15.00:107][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7572.860840
+[2026.05.13-07.15.00:248][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.15.00:248][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7572.993652, Update Interval: 325.291290
+[2026.05.13-07.21.11:811][740]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7944.454102
+[2026.05.13-07.21.11:936][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.21.11:936][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7944.570312, Update Interval: 315.943481
+[2026.05.13-07.27.06:232][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8299.037109
+[2026.05.13-07.27.06:374][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.27.06:374][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8299.169922, Update Interval: 302.043518
+[2026.05.13-07.32.38:656][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8631.591797
+[2026.05.13-07.32.38:771][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.32.38:771][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8631.698242, Update Interval: 314.211243
+[2026.05.13-07.38.41:066][643]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8994.351562
+[2026.05.13-07.38.41:199][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.38.41:199][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8994.478516, Update Interval: 326.170227
+[2026.05.13-07.45.06:324][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9379.780273
+[2026.05.13-07.45.06:474][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-07.45.06:474][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9379.923828, Update Interval: 339.914551
